@@ -4,4 +4,5 @@ This is a repository that contains datasets, papers, policies, or other things t
 Below are the names of the files you'll find in this repository and a short description of what the files are
 
 notes: links I've taken a look at with summaries, notes, and my thoughts
+
 log: a log of what I did that day
