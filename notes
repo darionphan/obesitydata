@@ -1,10 +1,17 @@
 This file is a collection of links to studies/articles with notes about the article itself and how it might be useful
 
+Symbols:
+[number]) is the start of a note
+# is a thought I had while reading the article
+SUMMARY is followed by a summary between two dashed lines
+CLOSING signifies the end of a note and is followed by an overview of the articles/data, possible findings, and other things I think would be relevant to the research
+
+
 1) Justin Mares - Substack Newsletter - Published 4 Aug 2022
 https://justinmares.substack.com/p/the-next-episode-33
 
-Summary
-------------------------------------------------------------------------------------------------------------------------------
+SUMMARY
+---------------------------------------------------------------------------------------------------------------------------
 - Since 1995:
    - Corn subsidies total around $116 billion
    - Wheat subsidies total around $48 billion
@@ -13,7 +20,7 @@ Summary
 - Author suspects increase in gluten intolerance/allergies could be due to this
 - Soybeans/vegetable oil more generally make up for 20% of American calorie consumption
   - Also used in animal feed
------------------------------------------------------------------------------------------------------------------------------- 
+---------------------------------------------------------------------------------------------------------------------------
 
 I looked through the sources and links in the news article and found an interesting Twitter thread by the author in which he talks about how vegetable oil can be detrimental to American health.
 https://twitter.com/jwmares/status/1329082510714671110?lang=en
@@ -21,10 +28,9 @@ https://twitter.com/jwmares/status/1329082510714671110?lang=en
 The thread turned out to be a summary of a series of articles by Jeff Nobbs. Going through the articles, he makes a strong case for the role vegetable oils play in weight gain and other chronic diseases. Part 1 of 6 of the series is linked and the rest of the series is found at the end of each article.
 https://www.jeffnobbs.com/posts/what-causes-chronic-disease
 
-Since we are primarily focusing on obesity, parts 1, 2, 3, and 5 are the most relevant to
+Since we are primarily focusing on obesity, parts 1, 2, 3, and 5 are the most relevant.
 
 #can we use studies by country to see what other countries are consuming vegetable oil in the same quantities the US is?
-#is it omega-6 found in the vegetable oil?
 
 Part 3 claim: Soybean oil accounts for about 45% of our dietary omega-6 (CHECK THIS LATER)
 
@@ -36,12 +42,40 @@ https://pubmed.ncbi.nlm.nih.gov/22334255/
   - https://pubmed.ncbi.nlm.nih.gov/22883314/
 - Affects mortality
 
-- Would transfat be a contributing factor?
+#Would transfat be a contributing factor?
+#Possibly affect infant health via breast milk?
+   # Article suspects the above
+   
+# Possible experiment?   
+# Vegetable oil consumption as it gets introduced to new countries, 
+# Maybe opening of borders to new fast food restaurants like McDonalds, KFC in China/other countries > weight gain?
+   # This is kind of a subsidy, like "it is now legal to do business in China"
+   # What if we looked at tariffs on vegetable oils and looked at the effect on weight?
+   
+- Article claims that that increase in the consumption of oil causes a reaction that makes us want to eat more (munchies) because people perceive themselves to be hungier
+   - https://www.zeroacre.com/white-papers/how-vegetable-oil-makes-us-fat
+      - This is part 5 of the 6 part series of articles. Part 1 is linked above. 
+      
+CLOSING
+---------------------------------------------------------------------------------------------------------------------------
+This established that there is a correlation between vegetable oil consumption and weight gain. Looking at vegetable oil consumption as it changes with farming subsidies is a direction for future exploration. We can also look at the opening of fast food in regions that did not previously have fast food and analyzing the weight gain from that. I think there are studies on that already with Middle Eastern countries and Pacific Island nations, but I'll have to double check that.
 
-- Possibly affect infant health via breast milk?
-   - Article claims the above
+Looking more directly at the research question of the causes and consequences of obesity in the US, I think another direction we can take this is to analyze soy bean subsidies to farmers and the subsequent prices of soybeans. I'm pretty sure that subsidies will affect commodity prices but I'll need to verify that. I'll also probably need to understand the specifics of the subsidies to see if they are per-unit of lump-sum and if they are available in all regions of the US.
+---------------------------------------------------------------------------------------------------------------------------
 
-- Vegetable oil consumption as it gets introduced to new countries, 
-- Maybe opening of borders to new fast food restaurants like McDonalds, KFC in China > weight gain?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
