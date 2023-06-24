@@ -4,6 +4,7 @@ Symbols:
 [number]) is the start of a note
 # is a thought I had while reading the article
 ! is something I think would be incredibly useful/relevant to the research
+{DATA ###} references the data set number that is found in the folder "datasets"
 SUMMARY is followed by a summary between two dashed lines
 CLOSING signifies the end of a note and is followed by an overview of the articles/data, possible findings, and other things I think would be relevant to the research
 
@@ -108,16 +109,29 @@ found two relevant data sets at the following link:
 - https://www.ers.usda.gov/data-products/commodity-costs-and-returns/
 
 Both data sets are linked in this repository. 
-The first dataset is called the "Recent Cost and Returns" for soybeans
-The second data set is the "Historical Costs and Returns" for soybeans.
+The first dataset is called the "Recent Cost and Returns" for soybeans {DATA 001}
+The second data set is the "Historical Costs and Returns" for soybeans {DATA 002}
 
 After that, I looked through the USDA Open Data Catalog to see what data was available regarding subsidies
+https://www.usda.gov/content/usda-open-data-catalog
+
 # Some data cannot be accessed on the site and it redirects me to a "page not found" page
 # Data sets that I think are interesting:
    # Farm Service Agency USDA Payments: https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/payment-files-information/index
       # It has the names and addresses of all payments to (presumably) farmers
       # It also has the type of payment, so if we wanted to isolate a certain subsidy it may be possible
-
+   # State of Origin for USDA Foods in Fiscal Year 2012: https://www.fns.usda.gov/usda-foods/state-origin-usda-foods
+      # The link on the USDA Open DAta Catalog was broken, so I googled the title and found the data at a different URL
+      # A path I was thinking about taking would be as follows: 
+         # 1) We look at total payments/subsidies for a crop like soybeans
+         # 2) We look at USDA purchases of food from states
+         # 3) We look at where USDA distributes the food to school lunch programs
+         # 4) We look at the obesity rates of schools with a higher proportion of students that eat school lunches
+         # Potential problems: It still doesn't implicate subsidies as the reason why students are obese. 
+         # We'd have to see the criteria the USDA has for purchasing that type/amount from farmers to see if price is
+         # a relevant factor. If price is a relevant factor that causes the USDA to purchase an unhealthier crop over
+         # a healthier option, then we can say subsidies can drive obesity.
+         
 
 
 
