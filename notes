@@ -95,11 +95,20 @@ SUMMARY
    # It's "unpublished analysis" he performed for the National Corn Growers Association
 --------------------------------------------------------------------------------------------------------------------------
 
-I decided to look around the EWG database on farm subsidies to see if 
+I decided to look around in the CDC Obesity data to see if specific areas were disproportionately obese.
+https://nccd.cdc.gov/BRFSSPrevalence/rdPage.aspx?rdReport=DPH_BRFSS.ExploreByTopic&irbLocationType=StatesAndMMSA&islClass=CLASS14&islTopic=TOPIC09&islYear=2021&rdRnd=21856
+
+The above link is for tables that show the number of samples taken and the percent of respondents that reported obesity.
+The data goes back to 2011.
+
 # Obesity is a chronic condition that takes years to manifest. What should I look for specifically?
 
+I looked through the United States Department of Agriculture (USDA) for historical data on the prices of soybeans and 
+found two relevant data sets at the following link:
+- https://www.ers.usda.gov/data-products/commodity-costs-and-returns/
 
-
+Both data sets are linked in this repository. The first dataset is called the "Recent Cost and Returns" for soybeans
+The second data set is the "Historical Costs and Returns" for soybeans.
 
 
 
