@@ -121,7 +121,7 @@ https://www.usda.gov/content/usda-open-data-catalog
       # It has the names and addresses of all payments to (presumably) farmers
       # It also has the type of payment, so if we wanted to isolate a certain subsidy it may be possible
    # State of Origin for USDA Foods in Fiscal Year 2012: https://www.fns.usda.gov/usda-foods/state-origin-usda-foods
-      # The link on the USDA Open DAta Catalog was broken, so I googled the title and found the data at a different URL
+      # The link on the USDA Open Data Catalog was broken, so I googled the title and found the data at a different URL
       # A path I was thinking about taking would be as follows: 
          # 1) We look at total payments/subsidies for a crop like soybeans
          # 2) We look at USDA purchases of food from states
@@ -131,7 +131,37 @@ https://www.usda.gov/content/usda-open-data-catalog
          # We'd have to see the criteria the USDA has for purchasing that type/amount from farmers to see if price is
          # a relevant factor. If price is a relevant factor that causes the USDA to purchase an unhealthier crop over
          # a healthier option, then we can say subsidies can drive obesity.
-         
+
+This is how the three main commodity programs work: https://www.ers.usda.gov/topics/farm-economy/farm-commodity-policy/title-i-crop-commodity-program-provisions
+# What's interesting is that indiviuals with an annual Adjusted Gross Income (AGI) above $900,000 are ineligible to receive payments from commodity programs
+
+I ended up looking up the process on how vendors can sell food directly to USDA which I found with this link: https://www.ams.usda.gov/selling-food
+
+Going through the website, I found documentation for purchases of "Grain & Oilseed"
+- Clicking through "PCA Report" on Vegetable Oil materials, we can see:
+   - This provides a business name, address, city, and zip code for each and every purchase 
+   - Here is an example from Solicitation Number 2000009059:
+      - https://www.ams.usda.gov//sites/default/files/2000009059%20-%20PCA%20Report.pdf
+   # We might be able to cross reference this with data like {DATA 003}
+      - Farm Service Agency USDA Payments for Wisconsin - Wyoming 2009:
+         - https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/payment-files-information/index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
