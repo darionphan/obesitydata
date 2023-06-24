@@ -107,12 +107,16 @@ I looked through the United States Department of Agriculture (USDA) for historic
 found two relevant data sets at the following link:
 - https://www.ers.usda.gov/data-products/commodity-costs-and-returns/
 
-Both data sets are linked in this repository. The first dataset is called the "Recent Cost and Returns" for soybeans
+Both data sets are linked in this repository. 
+The first dataset is called the "Recent Cost and Returns" for soybeans
 The second data set is the "Historical Costs and Returns" for soybeans.
 
-
-
-
+After that, I looked through the USDA Open Data Catalog to see what data was available regarding subsidies
+# Some data cannot be accessed on the site and it redirects me to a "page not found" page
+# Data sets that I think are interesting:
+   # Farm Service Agency USDA Payments: https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/payment-files-information/index
+      # It has the names and addresses of all payments to (presumably) farmers
+      # It also has the type of payment, so if we wanted to isolate a certain subsidy it may be possible
 
 
 
