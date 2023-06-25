@@ -71,6 +71,7 @@ I'm pretty sure that subsidies will affect commodity prices but I'll need to ver
 I'll also probably need to understand the specifics of the subsidies to see if they are per-unit of lump-sum and if they are available in all regions of the US.
 ---------------------------------------------------------------------------------------------------------------------------
 
+
 2) Scott Fields - NCBI NLM Article - Published Oct 2004
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1247588/
 
@@ -146,8 +147,43 @@ Going through the website, I found documentation for purchases of "Grain & Oilse
       - Farm Service Agency USDA Payments for Wisconsin - Wyoming 2009:
          - https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/payment-files-information/index
 
+CLOSING
+---------------------------------------------------------------------------------------------------------------------------
+Agricultural subsidies have definitely increased the quantity of soybeans and other subsidized crops on the market.
+- Something interesting is in the Table 2 of the first link in the email (https://www.aeaweb.org/articles?id=10.1257/089533003769204371)
+   - It states that the change in food consumption broken down by caloric intake have been made up for almost all by snacks (which includes HFCS-containing beverages)
+      - There is conflicting research about whether or not HFCS usage itself is the main driver of obesity
+
+Payments to farmers and the data that comes with it seems incredibly relevant. If a connection is able to be made between 
+the payments and their respective farmer's ability to provide crops to the USDA, we may be able to show that the subsidies 
+could drive obesity
+--------------------------------------------------------------------------------------------------------------------------
 
 
+3) David M. Cutler et al - American Economic Association - Summer 2003
+https://www.aeaweb.org/articles?id=10.1257/089533003769204371
+
+SUMMARY
+--------------------------------------------------------------------------------------------------------------------------
+Obesity may be caused by the decreased time cost of food due to the mass preparation of food due to the division of labor
+- It is due to technological change that makes the above possible
+The theory implies several things:
+   - Increased caloric intake is due to consuming more meals rather than more calories per meal
+   - Consumption of mass produced food has increased
+   - The groups that take advantage of the technological changes the most have had the biggest increases in obesity
+The theory also considers food regulations across countries and the fact that consumers may have self-control problems due to the decreased cost
+
+Obesity has increased in the time frame analyzed as is not the result demographic change
+The paper creates an equation to calculate the steady state of calories that takes into the account for a variety of factors
+- The equation can be seen on page 8 of the pdf (which is page 100 in the journal) along with definitions of each variable
+
+Increased caloric intake, not decreased energy expenditure, is the primary driver of weight gain
+The reduction in the time cost of food preparation causes an increase in consumption of food in the following ways:
+   - Increase in the variety of foods consumed
+   - Increase in the frequency of food consumption
+   - Switch to a high-calorie food
+   - Increase in overall consumption of food
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
