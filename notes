@@ -194,10 +194,12 @@ I'm going to look and see if I can find another avenue that connects the decreas
 # 3) This cheaper-than-market-price production is picked up by the USDA
 
 This is an article titled "Effect of Insurance Subsidies on Agricultural Land-Use"
-- Increase in subsidies leads to increases in farmland-share
+- Increase in subsidies of a specific crop leads to increases in farmland-share of that crop
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864581/
-
-
+# Something interesting about the article is that under "Data Source and Variable Selection" it provides ideas we can use to design an experiment
+# It takes data on the acres and their usage from the USDA Census of Agriculture and the Risk Management Agency for insurance coverage for crops
+# Using this data they were able to create Table 1 which details the type of land and the farm's costs and revenues
+# Definitely worth reading
 
 
 
