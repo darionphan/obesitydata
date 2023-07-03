@@ -224,7 +224,11 @@ USDA Domestic Food Procurement: Programs and Expenditures
 ! National Agricultural Law Center Farm Bills from 1933 - 2018 + Other legislation + Relevant resources
 - https://nationalaglawcenter.org/farmbills/
 
+#What am I looking for? I think the USDA is the one that implements the laws, but I'll just get an overview of the government programs
+#Do I just note every change?
+
 1996 Farm Bill Notes
+- https://www.congress.gov/104/plaws/publ127/PLAW-104publ127.pdf
 - This is 311 pages, so I'm just skimming it for interesting things that may be relevant
 - Relevant Sections: 
    - Production Flexibility Contracts (101 - 118)
@@ -247,7 +251,11 @@ USDA Domestic Food Procurement: Programs and Expenditures
    - Pilot project to coordinate food and nutrition education programs (866)
    - Human nutrition research (872)
 
+- Section 118: Fruits and vegetables cannot be planted on the acres under contract unless the planter has historically planed those crops
+   - Under the exceptions, the contract payment is reduced by an acre for every acre that is planted for fruits or vegetables
+
 2002 Farm Bill Notes
+- https://www.govinfo.gov/content/pkg/PLAW-107publ171/pdf/PLAW-107publ171.pdf
 - 408 pages
 - Relevant Sections:
    - Direct Payments and Counter-Cyclical Payments (1001 - 1108)\
@@ -275,6 +283,7 @@ USDA Domestic Food Procurement: Programs and Expenditures
    - Misc. Studies and Reports (10901 - 10905)
 
 2008 Farm Bill Notes
+   - https://www.congress.gov/110/plaws/publ246/PLAW-110publ246.pdf
    - 663 Pages
    - Direct Paymens and Counter- Cyclical Payments (1001 - 1109)
    - Marketing Assitance Loans and Loan Deficiency Payments (1201 - 1210)
@@ -306,6 +315,7 @@ USDA Domestic Food Procurement: Programs and Expenditures
    - Commodity Futures (13001 - 13204)
 
 2014 Farm Bill Notes
+- https://www.govinfo.gov/content/pkg/BILLS-113hr2642enr/pdf/BILLS-113hr2642enr.pdf
 - 357 Pages
 - Repeals (1101 - 1103)
 - Commodity Policy (1111 - 1119)
@@ -331,6 +341,7 @@ USDA Domestic Food Procurement: Programs and Expenditures
 - Crop Insurance (11001 - 11028)
 
 2018 Farm Bill Notes
+- https://www.congress.gov/115/bills/hr2/BILLS-115hr2enr.pdf
 - 529 Pages
 - Commodity Policy ( 1101 - 1108)
 - Marketing Loans (1201 - 1205)
@@ -353,12 +364,42 @@ USDA Domestic Food Procurement: Programs and Expenditures
 - Crop Insurance (11101 - 11126)
 
 
-- Section 118: Fruits and vegetables cannot be planted on the acres under contract unless the planter has historically planed those crops
-   - Under the exceptions, the contract payment is reduced by an acre for every acre that is planted for fruits or vegetables
+- USDA Child Nutrition Programs information: 
+   -  https://www.ers.usda.gov/topics/food-nutrition-assistance/child-nutrition-programs/
+
+# Another possible perspective:
+   # Rather than focusing on subsidies, I think focusing on USDA's purchasing and distribution would be more effective
+   # Gov't approved subsidies cause the USDA to act to implement them
+   # 
 
 
+# Healthy, Hunger-Free Kids Act of 2010 (HHFKA)
+   # https://www.govinfo.gov/content/pkg/PLAW-111publ296/pdf/PLAW-111publ296.pdf
+   # Set standards for child nutrition programs, implemented by the USDA
+   # Can we look at the rate of childhood obesity before and after this policy?
+   # Turns out people have already taken a look at this  
+      # https://www.hsph.harvard.edu/prc/2020/07/07/study-impact-healthy-hunger-free-kids-act-obesity-trends/
+         # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7961790/ <- the actual link
+      # “Based on our study, as well as research that USDA and other researchers have conducted showing improvements in diet, 
+      # the improved school meals standards have been a great public health success story,” said first author Kenney. “These 
+      # healthier school meals are helping to protect the health of the children who have been placed at highest risk for poor 
+      # health, and they reduce hunger while also reducing their risk of chronic diseases later in life.”
+         # In the Discussion portion, the paper states that they "are unable to definitively state a causal relationship between
+         # the HHFKA and the reversal in childhood obesity prevalance trends among children in poverty"
+   # There has been extensive research on this legislation, as seen through some of the sources the authors cite
+      # We can try to find a causal relationship using USDA purchases. We can see what purchases increased/decreased after the law was 
+      # enacted, weakened, or strengthed as time passed. 
+      # Once we find this, we can measure the obesity rate over time/location
+         # I feel like we're getting away from the subsidy part of this though. It feels too much like we're focusing on the 
+         # legislation rather than the subsidies. Is that okay?
 
 
+# Questions to ask during meeting:
+   # What are the next steps? Should I keep looking at the legislation? 
+   # The timeline, what should be on it?
+      # Soybean price, quantity, legislation
+   # What specifically should I look for in the legislation?
+   # See the above path, would this be a feasible way to go?
 
 
 
