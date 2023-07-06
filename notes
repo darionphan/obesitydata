@@ -136,7 +136,8 @@ https://www.usda.gov/content/usda-open-data-catalog
 This is how the three main commodity programs work: https://www.ers.usda.gov/topics/farm-economy/farm-commodity-policy/title-i-crop-commodity-program-provisions
 # What's interesting is that indiviuals with an annual Adjusted Gross Income (AGI) above $900,000 are ineligible to receive payments from commodity programs
 
-I ended up looking up the process on how vendors can sell food directly to USDA which I found with this link: https://www.ams.usda.gov/selling-food
+I ended up looking up the process on how vendors can sell food directly to USDA which I found with this link: 
+- https://www.ams.usda.gov/selling-food
 
 Going through the website, I found documentation for purchases of "Grain & Oilseed"
 - Clicking through "PCA Report" on Vegetable Oil materials, we can see:
@@ -406,4 +407,153 @@ I found another possible way to record contract data, this is a database for fed
 
 sam.gov is the website the USDA uses to award contracts
 - sam.gov
+- I looked through this link on sam.gov
+   https://sam.gov/data-services/Contract%20Opportunities/Archived%20Data?privacy=Public
+
+However, I only found non-food contracts. I don't think this has what we're searching for
+
+Trying to match the subsidies with the PCA reports, I wasn't
+ConAgra Brands gets a lot of subsidies. I used the 2016 data set for the states and the 2016 PCA Reports
+
+I wasn't able to find any matches going through the PCA Reports. I'm not sure if I'm using an incorrect year, but I'll keep looking around.
+
+Below is a list of companies that won contracts for Vegetable Oil organized by Issued Date. I was thinking that we could record the companies that won the contract and 
+try to detect subsidies another way.
+# What if we looked at the winners of a contract and we looked at subsidy amount for each of the producers. We assume each person is competitive 
+and wants to win the auction and we can assign a predicted winning percentage by subsidy amount and see if the outcomes are in line with predictions
+- https://www.ams.usda.gov/open-purchase-request?field_term_grades_and_standards_target_id=1057&page=0
+
+#NEED TO DO: Record the amount of the contract won, but I want to run this by Professor Hackmann before I dive deep.
+#Reorganize the DD/Month/Year format to Year/Month/Day
+
+- Incobrasa Industries picks up the majority of the contracts and provides the most amount of vegetable oil
+   - They got a grant!
+      - https://www.usaspending.gov/award/CONT_AWD_121NTP17P0362_12D2_-NONE-_-NONE-
+   - They are also a biofuel company
+   - List of their grants? Not sure how trustworthy this is, but it gives us a good idea of how much they are getting
+      - https://www.highergov.com/awardee/incobrasa-industries-ltd-10001818/
+   - Gov't website for their awards
+      - https://www.usaspending.gov/search/?hash=e486f2d6eac66e592dc0c75e16535b42
+
+7 Aug 2015
+STRATAS FOODS LLC
+
+30 October 2015
+CATANIA-SPAGNA
+COMMERCIAL LYNKS INC
+CONAGRA FOODS, INC.
+GUIDRY LIASON GROUP, INC
+INCOBRASA INDUSTRIES, LTD.
+ROBERT H BARRIOS
+STRATAS FOODS LLC
+ZEELAND FARM SERVICES, INC
+
+30 November 2015
+CANCELLED
+
+21 January 2016
+CATANIA-SPAGNA
+COMMERICAL LYNKS INC.
+CONAGRA FOODS, INC.
+INCOBRASA INDUSTRIES, LTD.
+ROBERT H BARRIOS
+STRATAS FOODS LLC
+ZEELAND FARM SERVICES, INC.
+
+18 February 2016
+ZEELAND FARM SERVICES, INC.
+
+27 April 2016
+CATANIA-SPAGNA
+CONAGRA FOODS, INC.
+INCOBRASA INDUSTRIES, LTD.
+STRATAS FOODS LLC.
+ZEELAND FARM SERVICES, INC.
+
+24 May 2016
+CANCELLED
+
+1 June 2016
+STRATAS FOODS LLC
+
+21 July 2016
+CATANIA-SPAGNA
+COMMERCIAL LYNKS INC.
+CONAGRA FOODS, INC.
+GUIDRY LIASON GROUP, INC.
+ROBERT H BARRIOS
+STRATAS FOODS LLC
+ZEELAND FARM SERVICES
+
+.
+.
+.
+
+20 January 2021
+GUIDRY LIASON GROUP, INC.
+INCOBRASA INDUSTRIES, LTD.
+
+4 February 2021
+CONAGRA BRANDS, INC.
+INCOBRASA INDUSTRIES
+
+28 April 2021
+CATANIA-SPAGNA CORPORATION
+INCOBRASA INDUSTRIES, LTD.
+
+19 May 2021
+CONAGRA BRANDS, INC.
+INCOBRASA INDUSTRIES, LTD. (5.9 Million)
+
+29 July 2021
+INCOBRASA INDUSTRIES, LTD. (7.1 Million)
+
+9 November 2021
+CATANIA-SPAGNA
+CONAGRA BRANDS, INC.
+INCOBRASA INDUSTRIES, LTD.
+
+19 January 2022
+CONAGRA BRANDS, INC.
+INCOBRASA INDUSTRIES, LTD.
+
+2022 April 15
+CATANIA-SPAGNA
+CONAGRA BRANDS, INC.
+INCOBRASA INDUSTRIES, LTD.
+
+2022 July 11
+CONAGRA BRANDS, INC.
+GUIDRY LIASON GROUP, INC.
+INCOBRASA INDUSTRIES, LTD.
+
+2022 November 3
+GUIDRY LIASON GROUP, INC.
+INCOBRASA INDUSTRIES, LTD.
+
+2023 January 19
+CATANIA-SPAGNA CORP
+GUIDRY LIASON GROUP, INC.
+INCOBRASA INDUSTRIES, LTD.
+
+2023 May 10
+EAST BAKING COMPANY INC. 
+GUIDRY LIASON GROUP, INC.
+INCOBRASA INDUSTRIES LTD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
