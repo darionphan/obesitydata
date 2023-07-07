@@ -416,6 +416,8 @@ Trying to match the subsidies with the PCA reports, I wasn't
 ConAgra Brands gets a lot of subsidies. I used the 2016 data set for the states and the 2016 PCA Reports
 
 I wasn't able to find any matches going through the PCA Reports. I'm not sure if I'm using an incorrect year, but I'll keep looking around.
+- It's a lot through first name and only some things are on there. I combined it into one big tibble then searched it
+- No results for the soybean producers show up
 
 Below is a list of companies that won contracts for Vegetable Oil organized by Issued Date. I was thinking that we could record the companies that won the contract and 
 try to detect subsidies another way.
@@ -427,13 +429,26 @@ and wants to win the auction and we can assign a predicted winning percentage by
 #Reorganize the DD/Month/Year format to Year/Month/Day
 
 - Incobrasa Industries picks up the majority of the contracts and provides the most amount of vegetable oil
-   - They got a grant!
+   - They got a grant
       - https://www.usaspending.gov/award/CONT_AWD_121NTP17P0362_12D2_-NONE-_-NONE-
    - They are also a biofuel company
    - List of their grants? Not sure how trustworthy this is, but it gives us a good idea of how much they are getting
       - https://www.highergov.com/awardee/incobrasa-industries-ltd-10001818/
    - Gov't website for their awards
       - https://www.usaspending.gov/search/?hash=e486f2d6eac66e592dc0c75e16535b42
+      - https://www.usaspending.gov/search
+
+- Check Bid Award or Bid Report on https://www.ams.usda.gov/open-purchase-request?field_term_grades_and_standards_target_id=1057
+   - Allows us to see competing bids for the same contract
+   - Contracts generally have 1 or 2 bidders, it's not that competitive
+   - Bids used to have up to 5 bidders which was more competitive than it currently is
+   - 
+
+- The problem isn't that they don't show up. The problem is that we're looking at the wrong step in the production chain
+- We were looking at the processors who sell to the USDA in bulk rather than the producers who source to them
+- The flow is farmers > companies > USDA
+- I tried looking at the companies in the data, but they didn't show up because they didn't receive the subsidies
+   - Makes sense, now we need a way to find how those companies source the subsidied soybeans
 
 7 Aug 2015
 STRATAS FOODS LLC
@@ -542,7 +557,8 @@ GUIDRY LIASON GROUP, INC.
 INCOBRASA INDUSTRIES LTD.
 
 
-
+Report on Food Procurement by USDA's Farm Service Agency
+- https://www.ers.usda.gov/webdocs/publications/40862/54250_aer766.pdf?v=5734.8
 
 
 
