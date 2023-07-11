@@ -596,6 +596,15 @@ FOIA usage
 - 
 
 
+7/11/2023
+NSCH Codebook:
+- https://www.census.gov/data-tools/demo/uccb/nschdict?s_variablelist=
+- Variable name K11Q62 records whether or not anyone in the family has received free or reduced-cost breakfast or lunch at school
+- Variable name K11Q61 records whether or not anyone in the family recieved food stamps or SNAP benefits
+   - Will probably correlate a lot with K11Q62
+
+- I wasn't able to find K11Q62 and K11Q61 in the available data in the NSCH database so I requested it. I also requested
+the school districts of the respondents. 
 
 
 
