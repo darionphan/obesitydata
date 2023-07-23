@@ -648,6 +648,7 @@ Section 32 Information:
 - https://sgp.fas.org/crs/misc/RL34081.pdf
 
 ! School Food Purchase Study: Final Report
+   - https://www.fns.usda.gov/cn/study-school-food-authority-procurement-practices
    - https://www.fns.usda.gov/school-food-purchase-study-final-report
    - Estimates the food acquisition of public schools participating in the NSLP/SBP
       - Type, quantity, and value of the food
@@ -689,8 +690,27 @@ HHFKA Summary
 HHFKA Actual Rules
 - https://www.govinfo.gov/content/pkg/FR-2012-01-26/pdf/2012-1010.pdf
 
+See data for food consumption, multiply total pounds by calories per pound for that food
+- Becomes total caloric intake via lunch for the year
+- Divide by the number of students participating 
+???
+
+
+It turns out that food purchased by public unified school districts only accounted for 3.8% of food purchases by all foodservice
+operations in SY 1996/97. Children aren't getting all of their calories from here, they are only getting some
+- Need a place where only certain types of foods are consumed
+   - Prisons?
+      - Turns out there's a study already done on that
+      - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6298656/
+   - Boarding schools?
+      - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350084/
+         - On diet, not obesity
 
 
 
+Effect of school lunches on future dietary preferences
+- Study titled "Food Trying and Liking Related to Grade Level and Meal Participation"
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7460185
+   - Very similar, but doesn't make the jump to obesity implications 
 
 
