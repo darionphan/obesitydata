@@ -648,12 +648,12 @@ Section 32 Information:
 - https://sgp.fas.org/crs/misc/RL34081.pdf
 
 ! School Food Purchase Study: Final Report
-   - https://www.fns.usda.gov/cn/study-school-food-authority-procurement-practices
    - https://www.fns.usda.gov/school-food-purchase-study-final-report
    - Estimates the food acquisition of public schools participating in the NSLP/SBP
       - Type, quantity, and value of the food
       - Procurement practices/operating characteristics are listed
-
+   - Turns out there are multiple versions of this study:
+      - https://www.fns.usda.gov/school-food-purchase-study-iii
 Study of School Food Authority (SFA) Procurement Practices
    - https://files.eric.ed.gov/fulltext/ED616677.pdf
    - SFA is the person who procures the food for the district
@@ -677,13 +677,6 @@ Somewhere above, I read that schools get about 80% of their foods from their pur
    # They have an incentive to do the cheapest things while following the standards?
 
 
-I ended up reading through the entire Study of School Food Authority (SFA) Procurement Practices and here's what I found:
-SUMMARY THIS WEEKEND
----------------------------------------
-
-
----------------------------------------
-
 HHFKA Summary
 - https://www.changelabsolutions.org/sites/default/files/HHFKA_SchoolEnvironments_FINAL_20120806.pdf
 
@@ -706,11 +699,89 @@ operations in SY 1996/97. Children aren't getting all of their calories from her
       - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350084/
          - On diet, not obesity
 
-
-
 Effect of school lunches on future dietary preferences
 - Study titled "Food Trying and Liking Related to Grade Level and Meal Participation"
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7460185
    - Very similar, but doesn't make the jump to obesity implications 
+
+
+I ended up reading through the entire Study of School Food Authority (SFA) Procurement Practices and here's what I found:
+- https://www.fns.usda.gov/cn/study-school-food-authority-procurement-practices
+- Published 22 September 2021, 84 pages of the pdf. Page numbers reference the pdf file page number, not the listed page number
+SUMMARY (of what I think is important. The Executive Summary is a really good summary of the report)
+---------------------------------------
+Table of Contents (3-7)
+Glossary (8-14)
+Executive Summary (15-23)
+- Study had four research objectives:
+   1) Identify and describe the complete process of how SFAs procure food
+   2) Identify and describe the rationale, procedures, and recordkeeping practices used by SFAs regarding Food Service Management Companies (FSMC)
+   3) Identify and describe group purchasing efforts SFAs use to purchase goods and services
+   4) Assess the availability of training and resources as well as the strengths and weakness of the procurement process
+- Factors that affect SFA Procurement Approach
+   - Menu items/variety, regulatory meal pattern requirements, food service operations, CN Program participation rates
+- 4 Contract types:
+   - Fixed-price, fixed price with economic adjustment, cost-reimbursable with fixed-fee, and cost-reimbursable with no fixed fee
+- Some factors that influence the procurement method
+   - Estimated cost, CN Program standards, foods available, purchase quantity, product standards are s
+- SFAs create either an Invitation for Bid (IFB) or Request for Proposal (RFP) with the specifications of what they want
+- Documentation is used to monitor contract award decisions
+- The contractor's performance is also monitored
+- 26.2% of SFAs currently use an FSMC
+- 56.1% of SFAs participate in group purchasing to improve purchasing power, get lower prices
+   - Benefits of working together are the learning and networking opportunities
+Introduction: (24-33)
+- 81% of school food acquistions were purchased, 11% were USDA donations, 8% were products containing USDA Foods
+   - Read the second to last paragraph and the footnotes, interesting studies
+- Samples size of 700, 562 completed the surveys SFAs
+   - 100 interviews
+- USDE Common Core of Data
+   #Explore later
+SFA Key Characteristics (34-36)
+   - Procure food for NSLP and SBP sometimes together
+Procurement Planning, Developing Solicitations and Contracts, and Contract Monitoring (37-75)
+   - There is typically a SFA food service director or manager, but other parties contribute to procurement planning
+   - Competitive sealed bids: Needs IFB that is publically advertised requiring bidders to respond with a sealed bid
+   - Competitive proposals: Needs RFP which asks supplies to submit a proposa. SFA scores each proposal and awards a contract
+      - Price is the primary factor
+   - Informal procurement is for purchases at or below $250,000
+      - Micro-purchasing: purchase transaction is below $10,000
+         - Does not need to solicit competitive quotes if the price is reasonable and it is below the threshold
+   - Some criteria for non-competitive proposals (page 42)
+   - Additional contract provisions that can affect awards: 'Geographic Preference Option', Small business, minority/women-owned business
+   - Some State Agencies provide templates for contracts
+   - FSMCs and group purchasing agreements exist
+      - The SFAs that use the FSMC rely on the FSMC for a lot of services
+   - A lot of interest/participation in group purchasing, but not interstate group purchasing
+      - Group purchasing lessened the amount of administrative work
+   - FSMCs can sometimes be grandfathered in with a new incoming director
+   - "Local" is not defined, up to the school to define it 
+      - Local foods aren't used too much
+   - USDA Foods
+      - Value pass-through: "the regular price of a purchased end product is discounted for refunded for the value of the USDA Foods contained in it"
+Training and Resources (76-82)
+- There are resources available to the SFAs like contracts, best-practices, training, and templates
+- Contract structures are usually a year long with the option to renew each year for four additional years
+   - They have the option to review the contract
+Summary (83-84)
+---------------------------------------
+
+Summary for School Food Purchase Study: Final Report
+-----------------------------------------------
+Executive Summary: https://fns-prod.azureedge.us/sites/default/files/SFPS-Execsum.pdf
+
+Part 1:
+- 
+
+
+-------------------------------------------------
+
+
+
+
+
+
+
+
 
 
