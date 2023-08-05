@@ -126,3 +126,14 @@ manufacturers for products produced for and marketed to school food service, inc
     - National School Lunch participation
     - School Breakfast Program participation
 
+10) Inventory of online public databases and repositories holding agricultural data in 2017
+- A lot of data, too much to be tossed into the GitHub
+# Will sift through the datasets, find relevant ones
+
+11) data.gov search query of "usda fns child nutrition"
+- https://catalog.data.gov/dataset/?q=usda+fns+child+nutrition&page=1
+- I tried downloading some datasets but it takes me to a "this page is not found" page, will try to find them
+
+12) data.gov search query of "school food procurement"
+- https://catalog.data.gov/dataset/?q=school+food+procurement&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=
+- Will sift through this to find relevant data
