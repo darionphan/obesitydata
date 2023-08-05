@@ -64,6 +64,25 @@ This is for the datasets that don't fit a particular category but are interestin
 - State, ZIP, ZIP 4-digit, Phone, Students, Teachers, Schools, Locale Code, Locale, Student Teacher Ratio, Type, Status
 - A sample of all districts containing 'Unified' in the name is uploaded to 'misc'
 
+6) Current Data Collections USDA Food and Nutrition Service
+- https://www.fns.usda.gov/ops/current-data-collections
+- School Meals Operations Study is the one that I think we should focus on
+  # Data collection for the fourth version of this study is happening in 2023-2024, so could we ask them to ask a question?
 
+7) SNAP Retailer Data
+- https://www.fns.usda.gov/data/snap-retailer-management-dashboard
+# I thought it was interesting to see if SNAP Retailer data correlated with school procurement practices
+  # Ex. Do unhealthier meals at schools cause parents to purchase unhealthier snacks?
+
+8) Child Nutrition Database
+- https://www.fns.usda.gov/tn/child-nutrition-database
+- Part of the nutrient analysis software approved by USDA for use in the NSLP and SBP
+- Database of over 10,000 items
+- "The CNDB includes food product nutrient data collected for the following 19 nutrients: calories, total fat, saturated fat, trans fat, cholesterol, 
+sodium, carbohydrate, dietary fiber, protein, vitamin A, vitamin C, vitamin D, calcium, potassium, iron, ash, total sugars, added sugars, and moisture."
+- "The CNDB includes nutrient data from: USDA National Nutrient Database for Standard Reference (SR) Legacy Release; USDA Standardized Recipes; and food 
+manufacturers for products produced for and marketed to school food service, including USDA Foods."
+- Basically we may be able to see the nutrient content of foods schools are receiving
+- Data link in 'misc'
 
 
