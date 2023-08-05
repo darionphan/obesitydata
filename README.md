@@ -10,3 +10,5 @@ log: a log of what I did that day
 datasummary: an organized collection of the data that I currently have
 
 data: the precursor to datasummary. data is no longer in use
+
+existing_literature: an organized collection of the papers, reports, and studies that I think are relevant
