@@ -1,6 +1,6 @@
 This is for the datasets that don't fit a particular category but are interesting and may be relevant
 
-Food Environment Atlas
+1) Food Environment Atlas
 - https://www.ers.usda.gov/data-products/food-environment-atlas/go-to-the-atlas/
 - Data linked in 'misc'
 - Provides information on the following topics:
@@ -42,5 +42,28 @@ Food Environment Atlas
     - Race & Age
     - Income Level
     - Other
+
+2) Economic Research Service USDA Data Products / Food and Nutrition Assistance Research Reports Database / Research Reports & Articles Database
+- https://data.ers.usda.gov/FANRP-research-reports-articles-database.aspx
+- Reports, projects, and data relating to Food Nutrition and Food Assistance
+
+3) Economic Reserach Service Results for Diet Quality & Nutrition
+- https://www.ers.usda.gov/publications/#!topicid=54b4c7ae-36a3-4e79-a07f-dd4773e73d7a&subtopicid=1b5195aa-577f-4d6b-b98b-5380bbea891f&series=&authorid=&page=1&sortfield=date&sortascending=false
+- Publications about Diet Quality and Nutrition
+
+4) Participation in the National School Lunch Program and food security: An analysis of transitions into kindergarten
+- https://www.sciencedirect.com/science/article/pii/S0190740914003387?casa_token=1avMZi8KpdYAAAAA:IP7bW4hpwPg_el6UuWiIBn3U-l37VekWQITzvEfsUevczq_ey71Npy3r0AtKjHUhy9baIQ_ntB4#t0005
+- Study that finds that the NSLP reduces food insecurity
+# Interesting note is that in section 1.1 in the last paragraph, it references that the NSLP helps obesity and links the following study
+  # https://www.sciencedirect.com/science/article/abs/pii/S0304407611001205
+  # I'll take a look later
+
+5) National Center for Education Statistics List of Public School Districts
+- https://nces.ed.gov/ccd/districtsearch/
+- Has NCES District ID, State District ID, District Name, County Name, Street Address, City, 
+- State, ZIP, ZIP 4-digit, Phone, Students, Teachers, Schools, Locale Code, Locale, Student Teacher Ratio, Type, Status
+- A sample of all districts containing 'Unified' in the name is uploaded to 'misc'
+
+
 
 
