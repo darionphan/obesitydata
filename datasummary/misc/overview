@@ -76,6 +76,9 @@ This is for the datasets that don't fit a particular category but are interestin
 
 8) Child Nutrition Database
 - https://www.fns.usda.gov/tn/child-nutrition-database
+- Link to its documentation
+  - https://fns-prod.azureedge.us/sites/default/files/resource-files/cndb-cn26-documentation.pdf
+  # I tried finding the codes for the food items, but I haven't been able to, will keep searching
 - Part of the nutrient analysis software approved by USDA for use in the NSLP and SBP
 - Database of over 10,000 items
 - "The CNDB includes food product nutrient data collected for the following 19 nutrients: calories, total fat, saturated fat, trans fat, cholesterol, 
