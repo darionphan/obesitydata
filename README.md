@@ -6,3 +6,7 @@ Below are the names of the files you'll find in this repository and a short desc
 notes: links I've taken a look at with summaries, notes, and my thoughts
 
 log: a log of what I did that day
+
+datasummary: an organized collection of the data that I currently have
+
+data: the precursor to datasummary. data is no longer in use
