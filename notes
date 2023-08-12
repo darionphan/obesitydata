@@ -1004,7 +1004,123 @@ Food and labor each account for about 45% of the average cost per lunch
 - References section is super good, a lot of related studies
 --------------------------------------------------------------------------------------------------
 
+Volume 1-4, Appendix A-H, Appendix I-P
 
+Anything pertaining to FSMCs
+---------------------------------------------------------------------------------------------------
+FSMCs were more common among large SFAs, SFAs in districts with lower child poverty, and those in urban/suburban areas
+- Volume 1, pdf page 60, Table 2.14 for use of FSMCs by demographic
+
+
+Table A.42. SFAs that use FSMCs are heavily reliant on FSMCs for a lot of services
+
+
+Table A.43. How FSMCs are paid and monitored
+	- 37.3% of SFAs use a per-meal fee
+	- 25.3% use a flat administrative fee
+	- 18.8% use a combination of flat admin fees and per-meal fees
+	- 4.3% use some other arrangement
+	- 0.0% use a percentage of total cafeteria sales
+	- 14.3% don't know
+
+Volume 2, pdf page 150
+- "Finally, among high schools, there was a negative association between the nutritional
+quality of NSLP lunches and use of a foodservice management company (FSMC). The mean
+HEI-2010 score for high schools in SFAs that used a FSMC was 2.2 points lower than the mean
+score for similar high schools in SFAs that did not use a FSMC"
+- Table 5.3 (NSLP) and Table 5.7 (SBP), pdf page 161
+- Total nutritional quality of food (measured by the HEI) is roughly the same for SFAs that use a FSMC and those that don't
+	- Statistically signficant at the high school level, not statistically signficant at the other levels
+	- HEI of 79.9 for schools that use a FSMC vs HEI of 82.1 that don't
+
+- Lunches have a higher HEI than breakfasts
+
+- For the NSLP, schools that participate in Food Purchasing Cooperatives have statistically signficantly higher HEIs that nonparticipants
+	- More data needed, want to see what components of food decreased or if it's across the board
+
+VOL 3
+"In SY 2014-2015, SFA financial statements, meal
+production records, recipes, invoices, and other documents
+were collected from a nationally representative sample of
+310 SFAs and 972 schools."
+^ Exactly what we need, in Volume 3
+
+Table 5.4, pdf page 113
+- "Other Costs" includes non-food supplies, FSMC fees, other contracted services, equipment purchases/depreciation, utilities, and other costs
+	- The increase in "Other Costs" is statistically significant compared to SY 1992-1993 and SY 2005-2006
+ 
+Table 5.9, pdf page 119
+- "Other Costs" is statistically signficantly different in SY 2014-2015 and SY 2005-2006 compared to SY 1992-1993 
+
+- pdf page 142
+- "None of the SFA-level characteristics of school foodservice operations—including use of
+food purchasing cooperatives and foodservice management companies— had significant
+relationships to more than one cost outcome for the NSLP"
+- Interesting, so SFA participation doesn't increase cost?
+	- Table 6.8
+
+- Interesting thing to note:
+	- Although it isn't statistically signficant, the usage of an FSMC leads to a lower reported cost per lunch 
+		- $3.55 with FSMC vs $3.84 without an FSMC
+	- However, the full cost per NSLP Lunch becomes $6.07 with an FSMC vs $6.01 without an FSMC
+		- Why does FSMC usage increase nonreported cost? Does the district pay it?
+		- Reported cost is defined above as "Reported: Costs chareged to the school foodservice acount
+			- Ex. food, foodservice personnel pay/fringe benefits, supplies"
+
+	- Also, Table 6.11: 
+		- Revenues as a % of reported cost for NSLP Lunch:
+			- 85.7% with FSMC vs 93.3% without FSMC	
+				- Lower revenue with the FSMC, why?
+
+
+Table D.11 and Table D.12 show regression coefficients between FSMC and reported cost and full cost per NSLP lunch/SBP Breakfast
+	- D.17 shows regression coefficient for FSMC vs. Revenue as a percentage of reported cost for NSLP Lunch
+	- D.18 shows regression coefficient for FSMC vs. Revenue as a percentage of reported cost for SBP Breakfast
+
+
+
+Volume 4:
+pdf page 119, National School Lunch Program
+" Among middle schools, participation in a food purchasing cooperative and use of a FSMC
+were both associated with significantly higher levels of student satisfaction (36 percent versus 24
+percent and 45 percent versus 26 percent, respectively). Among high schools, offering brandname or chain restaurant foods was associated with a significantly higher level of student
+satisfaction (45 percent versus 20 percent), whereas the use of a cycle menu was associated with
+a significantly lower level of satisfaction (18 percent versus 32 percent). "
+
+pdf page 120, SBP
+"Among elementary schools, the presence of policies for accommodating students with food
+allergies or special dietary needs (reported by SNMs) was associated with a significantly lower
+rate of student satisfaction (63 percent versus 89 percent). Among middle schools, participation
+in a food purchasing cooperative was associated with a significantly higher rates of student
+satisfaction (57 percent versus 37 percent). Also among middle schools, offering brand-name
+foods and use of a FSMC were each associated with a significantly lower rate of student
+satisfaction (21 percent versus 51 percent and 31 percent versus 53 percent, respectively)"
+
+- Nothing else on FSMCs in this volume
+
+Appendix A-H 
+NSLP Table D.3, SBP Table D.11. 
+- SFA usage of FSMC has roughly the same participation aside from in middle schools which goes from 39.9% if they use the FSMC to 55.8% if they don't
+	- Not statistically signficant? Why? It feels significant
+
+- Table D.21, D.29 satisfaction rates for NSLP/SBP
+	- Significant at the middle school level with the FSMC, 44.7% satisfaction with FSMC vs 26.4% satisfaction without
+
+D.37,D.45 Parent satisfcation is roughly equal for NSLP/SBP regardless of FSMC status
+
+SFA usage and the percentage of plate waste
+	- Sigificant in middle schools regarding calories and dairy
+	- 17.7% with an FSMC vs. 22.9% without an FSMC for calories
+	- 19.4% with an FSMC vs. 26.2% without an FSMC for dairy
+	- For fruits and vegetables, it is 17.9% with an FSMC vs. 25.8% without an FSMC, why isn't it statistically signficant?
+- Overall not significant
+
+Appendix I-P
+
+Table O.2 and Table O.10,  No impact of FSMC usage on HEI score for either NSLP or SBP
+	- NSLP for all schools: 57.8 HEI with FSMC vs. 57.1 HEI without FSMC
+	- SBP for all schools: 58.8 HEI with FSMC vs. 58.3 HEI without FSMC
+---------------------------------------------------------------------------------------------------
 
 
 
