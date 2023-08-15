@@ -1125,6 +1125,157 @@ Table O.2 and Table O.10,  No impact of FSMC usage on HEI score for either NSLP 
 ---------------------------------------------------------------------------------------------------
 
 
+School Food Purchase Study III
+- They have the food procurement data!
+- Practices as well as the actual data
+
+- Meal equivalent = 1 lunch = 1.5 breakfasts
+- Unified public school districts acquired food valued at more than $8.5 billion in SY 2009/10
+	- 81% were purchased commercially, 11% were USDA Food donations, 8% were processed food containing donated USDA Foods 
+
+
+What if we compare distribution center location data with school food prices?
+
+
+Decrease in the purchase of fish products, 
+- Vitamins related to the consumption of fish? Omega-3 deficiency
+
+
+Data I want: 
+- The auction data schools use to decide which supplier to use
+
+Procurement Practices Survey (PPS)
+- Participating school districts completed a Procurement Practices Survey (PPS) that requested information
+on use of the NSLP, SBP and other federal food programs, food preparation facilities, how they decided
+what foods to serve and how to procure the ingredients, and other aspects of the food procurement
+process.
+
+
+"Most school districts use one or two vendors for each major product type. The total number
+of vendors across all products and district sizes averaged 6.7 but ranged from 4.9 in the
+smallest size group to 12.3 in the largest."
+- Want to see this data, are there gains from trade by mandating a larger variety of suppliers?
+- Do certain suppliers monopolize certain areas?
+	- Economies of scale?
+- Contracting with a FSMC gives the FSMC a monopoly over all aspects of procurement
+	- The money may not be made via food, but through the other services
+	- What are the costs of the other services?
+		- Is food the driving factor?
+		- I remember the cost was split around 45% food, 45% labor, 10% other payments
+		- FSMCs have access to the labor cost by contracting with a school
+			- Need to look at the contracts the FSMCs are allowed to use 
+
+"School districts that purchase through cooperatives have a slight advantage compared to
+those that do not. For the top 50 food items, cooperative buying achieved the lowest
+mean price on 30 of the 50. However, most of the differences are smaller than for some
+of the other comparisons, i.e. the lower price is seldom more than 10 percent less than
+the higher price."
+- Gains from coming together
+
+- USDA gives out cash subsidies and donated USDA Foods for each meal served 
+
+For FY 2010, the cost of NSLP meal reimbursements was $9.8 billion
+- SBP meal reimbursements cost $2.9 billion
+- Donated entitlement and bonus USDA Foods were valued at $1.13 billion
+
+
+Important research objectives of the study:
+
+Objective 1: Develop national estimates of the types, amounts, and costs of food acquired (purchased food and USDA
+donations) by public unified school districts participating in USDA sponsored child nutrition programs
+
+Objective 2: Describe any changes in the mix of foods acquired by schools since the last study of
+school food purchases (SY 1996/97) and the extent to which acquired foods are
+prepared or processed, and the extent to which the relative costs of school food
+purchases have changed. 
+
+Objective 3: Compare the mix of foods acquired by various subgroups. 
+- "Are there differences in the mix of foods and the prices paid for each of the following":
+- Where FSMCs are mentioned
+
+
+Objective 4: Objective 4: Describe current school food purchase practices and identify relationships between food
+purchase practices and school district characteristics and the cost of foods to schools. 
+
+Sections - 
+
+Section 1: Introduction
+Section 2: Methodology
+Section 3: Characteristics of participating schools
+Section 4: Economic and policy factors
+Section 5: Estimates of the volume and value of foods purchased
+Section 6: Procurement practices
+Section 7: Food acquisition and costs by district characteristics
+Section 8: Relationship between procurement practices and school food purchases 
+Appendices 
+
+
+Section 2:
+"A list of SFAs in the contiguous 48 states and District of Columbia was purchased from Quality Education
+Data Inc. (QED), a company that maintained an educational database."
+
+"The QED database provided details of enrollment by district, participation in the NSLP, participation of
+Food Service Management Companies (FSMCs) in managing food service, percentage of students approved
+for free or reduced lunches, and details of school district food service contacts."
+
+"School districts were asked to provide source documents that included detailed information about the foods purchased
+and donated USDA Foods received during the specified 3-month time period. A data negotiation protocol
+was developed for use during recruitment to determine the least burdensome approach to obtaining the information." 
+
+---------------------------------------------------------------
+Districts could choose to supply food purchase data through one or several of the following:
+- Vendor summaries;
+- Copies of invoices;
+- Tally sheets; and
+- Bid specifications.
+
+Regardless of the method the school district elected to use, the following data elements associated with
+food purchases and USDA Food donations needed to be included on the source documents:
+- Type of product purchased (e.g., turkey burger, cheese pizza, canned tomatoes);
+- Brand name, if a branded product;
+- Product code number;
+- Unit size (pack size, case size, etc.);
+- Number of cases (units) purchased;
+- Unit price;
+- Total cost;
+- Fuel or other additional charges; and
+- Rebates/discounts or credits. 
+----------------------------------------------------------------
+
+Non-response:
+"We used a logistic model to test whether the nonresponse rate varied significantly among groups or types
+of school districts. The results showed no significant variation by region or quarter. The enrollment size
+of a school district was not significant. This effect was tested two ways. One method was to enter the
+number of students. The other used the size rank of school districts within the region. Neither was
+significant.
+
+The only significant effect was for FSMC status, which is harmless and controlled because we stratify on
+that factor. School districts with an FSMC were more likely to be nonresponsive. The p-value on this test
+was less than one percent. This result indicates that it was important to stratify by FSMC status, not only
+to reduce the overall variance of the estimates, but also to control for the different response rate."
+
+# FSMC data is not as present as non-FSMC data, p-val < 0.01
+# Less transparency
+
+
+"Six indicated that their FSMC did not want to participate"
+- "The reasons for non-participation are itemized in Table AI-5 of Appendix I"
+
+"Approximately 13.5 percent of all school districts were estimated to use a food service management
+company (FSMC) to run their food operations in SY 2009/10, up from 9.7 percent in SY 1996/97. The
+share of national student enrollment served by an FSMC has increased even more, from 9.2 percent to
+14.7 percent. As in the earlier study, FSMCs operate a higher proportion of mid-sized school districts. It
+is within this size group that the largest increase in FSMC-operated districts has been observed. Indeed,
+the FSMCs’ share of the smallest size districts decreased between 1996/97 and 2009/10. The estimates for
+SY 2009/10 are shown in Table 3-25, and comparisons with SY 1996/97 are provided in Figure 3-22 and
+Figure 3-23."
+
+
+- See Table 3-26 to see FSMC usage by poverty % and urbanicity 
+
+
+
+
 
 
 
