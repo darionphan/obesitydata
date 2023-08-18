@@ -1,2 +1,49 @@
 This is the file where I'll put all the questions I have about the data as well as questions I'm curious about
 
+
+I found really cool data relating to FSMCs in Missouri!
+- Basically, we have financial data on revenue and expenses going back a few years because every school in Missouri publishes
+the Annual Secretary of the Board Report (ASBR)
+  - https://apps.dese.mo.gov/ASBR/PublicView.aspx
+
+- We also have a list of approved FSMCs Missouri schools are allowed to contract with
+  - https://dese.mo.gov/financial-admin-services/food-nutrition-services/food-service-management-companies
+  - The above link contains the name of the FSMC, contract information, and sometimes a website
+  - With this information, we can search for them on the internet
+      - Once the FSMC's website is found, we can go to the 'Careers' section of their website
+      - This allows us to find out where the FSMCs are operating 
+
+Examples of the first few approved FSMCs in the above link:
+- 2 Mikes Catering: http://www.twomikescatering.com/program-details.html
+  - They seem to be a smaller company so they did not have a hiring section and explicity listed the schools they work with
+- Aladdin Food Management Services: https://careers.elior-na.com/Aladdin-Campus-Dining/search/?createNewAlert=false&q=&locationsearch=MO&optionsFacetsDD_department=&optionsFacetsDD_shifttype=&optionsFacetsDD_facility=&optionsFacetsDD_customfield2=
+  - A lot of openings, some for university dining.
+  # How is the market is for university dining halls structured?
+- American Food & Vending/American Dining Creations: https://adc.recruiting.com/jobs?page_size=20&page_number=2&location_state=Missouri&sort_by=start_date&sort_order=DESC
+  - Has the city, sometimes the precise location. May not be useful, but may be nice to have
+- Ameriserve, Inc.: Still on the website, but I believe they were acquired
+- Aramark: https://careers.aramark.com/search?&location=Missouri,+USA&distance=25&category=culinary,food+service,nutrition+++dietetics&type=&sub_category=&industry=#page-top
+  - A lot of openings, most openings have the exact location/district listed, but others do not
+- A'viands, LLC d/b/a K-12 by Elior: https://careers.elior-na.com/K-12-by-Elior/go/K-12-by-Elior/8775002/25/?q=&sortColumn=referencedate&sortDirection=desc
+  - A lot of openings, all the food service openings I've checked have the district or school listed
+
+There's also data relating to contracts that are up to be rebid:
+  - https://dese.mo.gov/media/pdf/fsmc-contract-rebid-list-23-24-school-year
+  - Has agreement number, Sponsor info, FSMC name, contract type and year
+  - I'll try to find data that goes back further to see if we can cement which schools contract with an FSMC
+
+Next steps:
+  - Find more concrete data about FSMC status
+  - Compare the expenditures/revenues by FSMC schools in all aspects of food lunches
+    - Food cost
+    - Labor cost
+    - Admin fees
+  - Answer the question of "Do FSMCs increase the entire cost of food service programs"
+    - Look at long-term effects
+      - Has a school ever declined to renew a contract with an FSMC?
+
+
+
+
+
+
