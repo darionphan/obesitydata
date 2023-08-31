@@ -1505,8 +1505,24 @@ List of Procurement Data:
 		- Enter the contract number into:
 			- https://ppmoe.dot.ca.gov/des/oe/planholders/bidsum.php
 - We find the procurement data for a lot of contracts
-	
-	
+
+Planet bids: Has bidding data, but not for food
+- https://pbsystem.planetbids.com/portal/16151/bo/bo-search
+
+highways.dot.gov (not a typo) procurement data
+- https://highways.dot.gov/sites/fhwa.dot.gov/files/pra-blri-2n21_0.pdf
+
+Kanawha County School District Purchasing data
+- https://kcs.kana.k12.wv.us/district/departments/purchasing/bid_tabulations
+- Only some food, about 1/200 of it is food
+
+*****BINGO*****
+- Garland Independent School District
+	- Exactly what we're looking for
+	- https://garlandisd.net/search?keys=bid+tab+food
+		- Contains: Description of good, quantity of good, bidders, bidder price, winning bidder 
+- I'm going to create a folder for this
+
 
 
 
