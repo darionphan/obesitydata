@@ -1498,7 +1498,15 @@ USDA Guidance for Contracting with a FSMC
 	# May come back to this
 
 
-
+List of Procurement Data:
+- Caltrans
+	- https://ppmoe.dot.ca.gov/des/oe/planholders/awarded.php
+		- Clicking "Find records" lets us sort by contract number
+		- Enter the contract number into:
+			- https://ppmoe.dot.ca.gov/des/oe/planholders/bidsum.php
+- We find the procurement data for a lot of contracts
+	
+	
 
 
 
