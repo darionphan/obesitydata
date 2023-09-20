@@ -2,20 +2,47 @@
       name:  <unnamed>
        log:  C:\Users\Martin Hackmann\Documents\GitHub\obesitydata\logs\descriptivess_cypressfairbanks.log
   log type:  text
- opened on:  15 Sep 2023, 09:46:25
-r; t=0.00 9:46:25
+ opened on:  18 Sep 2023, 20:17:18
+r; t=0.02 20:17:18
 
 . 
 . 
+. *** load csv data
+. 
+. insheet using "data_temp/cypress_fairbanks_temp.csv"
+(9 vars, 4,051 obs)
+r; t=0.18 20:17:18
+
 . 
 . 
+. *** year of procurement
+. gen year=substr(doc_date_scaled,-4,.)
+r; t=0.00 20:17:18
+
+. destring year, replace force
+year contains nonnumeric characters; year replaced as int
+(140 missing values generated)
+r; t=0.18 20:17:18
+
 . 
+end of do-file
+
+r; t=0.00 20:17:18
+. r; t=0.78 20:17:23
+do "C:\Users\MARTIN~1\AppData\Local\Temp\STD0o000000.tmp"
+
 . 
-. *** close log file 
+. gen productid=substr(bid_name_scaled,1,5)
+(40 missing values generated)
+r; t=0.00 20:17:56
+
+. destring productid, replace force
+productid contains nonnumeric characters; productid replaced as long
+(1573 missing values generated)
+r; t=0.05 20:17:56
+
 . 
-. log close 
-      name:  <unnamed>
-       log:  C:\Users\Martin Hackmann\Documents\GitHub\obesitydata\logs\descriptivess_cypressfairbanks.log
-  log type:  text
- closed on:  15 Sep 2023, 09:46:25
-----------------------------------------------------------------------------------------------------------------
+end of do-file
+
+r; t=0.10 20:17:56
+. exit, clear
