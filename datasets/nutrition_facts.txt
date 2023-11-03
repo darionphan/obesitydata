@@ -1,0 +1,266 @@
+https://www.cde.ca.gov/ls/nu/sn/nslp.asp
+NSLP is operated on a reimbursement basis, paid on the number of meals served
+- Monthly reimubursement claim through Child Nutrition Information Payment System (CNIPS)
+- Oversight by Department of Education
+- Paid via check, about 4-6 weeks after submitting the claim
+- Two sources of reimbursements: USDA and the State of California
+	- "State reimbursement is paid for all free and reduced price meals. 
+	Federal reimbursement is paid for all free, reduced price, and paid meals.
+
+https://www.cde.ca.gov/ls/nu/rs/rates2324.asp
+- 2023-2024 CNP Reimbursement Rates
+- Below is a table that is found in the above link.
+School Breakfast Program Reimbursement Rates (07/01/2023 - 06/30/2023)
+____________________________________________________
+|    Type of Meal      | Free | Reduced-Price | Paid|
+-----------------------------------------------------
+|Basic Breakfast       |$2.28 |$1.98          |$0.38|
+-----------------------------------------------------
+|Severe Need Breakfast |$2.73 |$2.43          |$0.38|
+-----------------------------------------------------
+#What is severe need breakfast?
+- https://frac.org/wp-content/uploads/FedRates_0722.pdf
+- Tables stating the reimbursement rate per meal served are also given for the categories below
+	- National School Lunch Program
+	- Meal Supplements (After-School Snacks) in the NSLP
+	- State Meal Reimbursement for Public Schools, Charter Schools, 
+	and County Offices of Education Serving Breakfasts and Lunches 
+	in Federal Meal Programs
+	- Special Milk Program
+	- Summer Food Service Program (SFSP)
+https://www.cde.ca.gov/ls/nu/rs/scales2324.asp
+- Households of a certain number of people under a certain income are eligible for free meals, snacks, and milk
+- Reduced-price eligibility threshold is higher than free threshold
+
+https://www.cde.ca.gov/ls/nu/rs/index.asp
+- There are also grants and other funding sources schools can apply for
+	# What reasons should they apply to this? 
+
+https://www.ednc.org/school-meals-finance/
+- Sources of funding for schools,
+	- Reimbursements by federal government
+		- Per meal served, depends on the type of meal served/severe-need
+		- Commodity funding from USDA Foods in Schools Program
+	- Student payments
+		- Copayments, lunch purchases
+		- Also a la carte items
+	- State support
+		- States participating in federally funded school nutrition programs must provide a certain amount of matching funds based on a set rate
+		- https://www.fns.usda.gov/nslp/matching-funds
+			- Varies by state, "the state (as distinguished from the State Educational Agency) can determine the extent 
+			to which it is practicable for the state to disburse state revenue matching funds in such a manner that each school 
+			food authority receives the same proportionate share of such revenues as it receives of specified federal assistance funds."
+				- I interpret this as states match a certain percent of federal funds in the same proportion the federal government pays the schools
+- Sources of costs for schools
+	- Food/Food supplies
+	- Labor
+	- Equipment and overhead
+
+https://nourishca.org/ChildNutrition/NSLP/CFPAPublications/NSLP-FactSheet-2008.pdf
+- Program funded via Federal subsidies
+- State reimburses school for all free/reduced price meals
+- Commodities(entitlement foods), worth about 15.5 cents per meal served
+- There's also a performance-based cash assistance 
+
+https://www.govinfo.gov/content/pkg/COMPS-10328/pdf/COMPS-10328.pdf
+- Child Nutrition Act of 1966
+
+
+######Ask Brian Volz/ Joe Cook questions:
+
+
+PROCESS:
+- https://www.cde.ca.gov/fg/aa/nt/index.asp, Downloaded document 
+	- CALIFORNIA: Once approved by the California Department of Education (CDE), SFAs submit a monthly claim for reimbursement for meals served
+		- CDE reviews and approves the claim then requests payment from the State Controller's Office. SFAs receive the payment in 4-6 weeks
+		- Final date a claim is accepted is the 60th day after the end of the month of the claim
+		- SFAs log into CNIPS, select year and month for claim and add the claim.
+		- They import files from Point of Sale (POS) systems 
+		- Things that go into the claim:
+			- Number of Children Approved to Receive Free Meals
+			- Number of Children Approved to Receive Reduced-Price Meals
+			- Number of Children Receiving Paid Meals
+			- Number of Enrolled Children at this Site
+			
+			- Number of Operating Days
+			
+			- Number of Free Meals Served
+			- Number of Reduced-Price Meals Served
+			- Number of Paid Meals Served
+			- Number of Total Meals Served (automatically calculated)
+		- Section on snacks/supplements and special milk, roughly same format as above.
+		- "Area Eligible" indicates any site in which at least 50% of the enrolled children are approved for free/reduced-price meals
+		- Can see claim summaries
+			- 7 Claim statuses: Not Eligible, Incomplete, Pending, Error, Validated, Accepted, Processed
+		- SFAs can combine/uncombine May/June as well as August/September claims
+		- Can claim Provision 2 (LOOK INTO THIS) and Community Eligibility Provision (CEP), roughly same format as above
+		
+		- Year End Revenue and Cost Form, submitted with the last claim month of the school year. 
+			- Only required for non-public school districts and non-County Office of Education sponsors
+	 		- Revenue is either cash or accrual basis (accrual is required for enrollment > 2500)
+			- Categories are:
+				- Daily Sales, Federal Reimbursement, State Reimbursement, Needy Meal Tax/Revenue Add On, 
+				Other (Interest, Rebates, Percentage from vendors), Totals (automatically calculated)
+			- Cost:
+				- Reported when the cost is incurred
+					- Food, all costs (ex. transportation)
+					- Labor
+					- Other
+		- Edit Check: #I think this is a way for them to double check their numbers?
+				#Annual attendance factor
+			" To perform daily meal count edit checks, sponsors must:
+			•	Multiply the number of enrolled children approved in each meal category (free, reduced-price, and paid) by the annual attendance factor
+			•	Compare these numbers, known as attendance adjusted eligible figures, to the daily counts of free, reduced–price, and paid meals served
+			•	Document your calculations on an edit check form (samples available from the CDE)
+			•	Provide a written justification on the edit check form next to the date where any category count exceeds the attendance-adjusted number. (Sample justification could be meal participation increased due to a special promotion or it was “pizza day”.)
+	- FEDERAL: https://www.fns.usda.gov/cn/support-schools
+		-$3.8 billion Supply Chain Assistance: There's a portal for it.
+			- State agencies fill out the form, https://surveys3.cde.ca.gov/s.asp?k=164797382616
+			- Through USDA Commodity Credit Corporation
+			- Non-competitive
+			- https://www.fns.usda.gov/cn/allocation-supply-chain-assistance-funds
+				- USDA uses CCC to move money to state agencies, State agencies distribute the funds to eligible SFAs
+					- $5000 per school district, then proportional payments based on each SFA's share of state-wide enrollment
+		- $1.125 billion National School Lunch Operating Costs: https://www.fns.usda.gov/cn/emergency-operating-costs-during-covid-19-implementation-guidance
+			- State agencies apply with a plan of how to disperse the funds to program operators
+		- $178 million Local Food for Schools Cooperative Agreement Program: https://www.ams.usda.gov/sites/default/files/media/LFSWebinarPresentation.pdf
+			- Like National School Lunch Operating Costs, State agencies apply with a plan to use the funds, list of criteria/eligibility they have to follow
+		- $140 million Equipment Assistance Grants:
+			- Like other Grants, states apply get money. This time, the states are expected to distribute the material and review applications competitively
+			-  Once approved by the FNS regional office, the state agency will distribute subgrant materials, review application submissions from SFAs, award subgrants, and conduct monitoring activities. State agencies are expected to maintain all appropriate purchase records and make them available and ready for review upon request.
+		- $100 million Healthy Meals Incentives: 
+			- SFAs directly apply on this site: https://healthymealsincentives.org/recognition-awards/
+		- Increase in reimbursement amounts per meal basis is another way USDA helps out the schools
+
+			
+	
+		- Commodity Donations
+				- ENTITLEMENTS ARE NOT ROLLED OVER TO NEXT SCHOOL YEAR, Use it or lose it
+			- DoD Fresh Fruits and Vegetables Program
+				- https://www.fns.usda.gov/f2s/using-dod-fresh-buy-local
+				- The DoD Defense Logistics Agency (DLA) procures the produce
+				- Schools place orders via Fresh Fruit and Vegetable Order/Receipt System (FFAVORS)
+					- Allows the schools to use entitlement to purchase fresh produce
+					- Tracks entitlement balances and order costs
+			- USDA Commodity Procurement/Delivery: https://www.ams.usda.gov/selling-food/how-process-works
+				- This is what we looked at at the beginning of the summer
+				- Process: USDA via its Agricultural Marketing Service (AMS) announces plan to buy particular food
+					- AMS solicits via Web Based Supply Chain Management (WBSCM)
+					- Approved vendors respond > Contracts are awarded
+					- Once the contractor "has successfully performed on their contract" an invoice is submitted to WBSCM
+				- FEDERAL > STATE; https://www.fns.usda.gov/usda-fis/determining-school-and-child-care-commodity-entitlements
+					- FNS, AMS, and FSA decide which commodities will be purchased "based on a consolidated purchase plan"
+						- Accounts for " overall program entitlements to states, traditional usage in previous years, state 
+						and school preferences, anticipated market conditions, and the amounts and types of funds appropriated" 
+					- "Overall commodity entitlements are determined based on the estimated number of lunches served between 
+					July 1 and June 30 of each year in schools participating in the NSLP. The entitlements are obtained by multiplying 
+					the estimated number of meals served in the current year by the value of commodities assistance for each lunch. The 
+					value per lunch specified by Section 6(c) of the NSLA is a three-month average value of the Price Index for Food Used 
+					in Schools and Institutions for March, April, and May of each year, is updated annually and published in the Federal Register."
+					- Group A foods: Surplus removal type foods that are generally available seasonally. 
+						- Includes: fruits, vegetables, poultry, fish, and meat
+						- Generally offered when a purchase is expected to be made;
+						- State can choose to accept all or part of its share or can refuse them. If additional items are made available, they are offered later in place of the refused commodities
+					- Group B foods: Acquired by FSA
+						- Generally price supports, includes dairy products, cereals, grains, peanut products, and vegetable oil products
+						- "Each year, states choose the percentage of Group B commodities they desire. Normally, this percentage remains 
+						the same for the entire school year. However, if unusual situations occur, states are given the opportunity to 
+						change their percentage of Group B commodities. states are provided a list of available Group B foods and the 
+						estimated cost of each item. States may order these foods throughout the year."
+					- Bonus commodities: Donated to schools when there are surpluses, offered on a 'fair-share' basis
+
+				- STATE > SCHOOL
+				- Distribution to Schools: https://www.fns.usda.gov/usda-fis/offering-school-food-authorities-required-value-and-variety-usda-foods-and-efficient-and-cost
+					- State Distribution Agencies (SDA) offer "to the extent practical, the full variety of USDA Foods that the USDA makes available in NSLP
+						- Up to the SDA to distribute it
+						- https://www.cde.ca.gov/ls/nu/fd/offeringinfo.asp
+						- "An agency's donated food entitlement is calculated 
+						by the number of reimbursable lunches served during the previous year 
+						(July 1–June 30) multiplied by the current per-meal value"		
+							- SFAs submit orders periodically throughout the school year to the extent that entitlements allow
+							- Bulk foods are also mae available to be ordered and/or delivered to a processor
+							- Up to the SDA to contract with the processors to let SFAs get the food they want/ask for
+							- Ways to distribute the food
+								- Direct shipment of USDA Foods to SFA
+								- Split shipments between different SFAs if an SFA's order does not consitute a full truckload
+								- Collective receipt and storage
+									- Co-ops can order, receive, and store USDA Foods							
+				-https://www.cde.ca.gov/ls/nu/fd/dist.asp
+				- State Distribution Centers (SDCs): One in Sacramento, one is Pomona
+				- Recipient agencies(RA) recieve USDA Foods through SDCs
+					-RAs have full control over entitlement spending and scheduling; they can place 5 orders per year based on what's available at the SDC
+					-Advance Order Program: Before the school year, Large RAs can order raw bulk USDA Foods to divert directly to processors
+					-State Co-op Program: Before the school year, RAs submit a survey and can order specific USDA Foods to be received at the SDC
+						
+				
+
+			- USDA Foods Processing: https://www.fns.usda.gov/usda-fis/processor
+				- "USDA Foods processing allows state distributing agencies and eligible recipient agencies, 
+				such as school districts, to contract with commercial food processors to convert raw bulk 
+				USDA Foods into more convenient, ready-to-use end products."
+				- USDA provides these foods for processing: https://www.fns.usda.gov/usda-fis/processor-material-prices
+					- Has price, UOM, Quantity, Description, truck weight
+				- https://www.fns.usda.gov/usda-fis/further-processing-factsheet
+				- Benefits include: "Stretch their USDA Food dollars by ordering bulk products at lower-cost;
+						     Help ensure food safety by limiting handling of raw product in school foodservice operations;
+						     Reduce labor costs and cash outlays for food preparation;
+						     Reduce storage and delivery costs; and
+						     Have their bulk USDA Foods delivered directly from USDA vendors to their contracted processor(s).
+				- Value is passed through to the recipient agency in the form of lower costs of the finished product
+					- 3 ways to ensure the value of the USDA Foods contained in the finished product is return to the recipient agency
+						- Discounting the normal commercial price
+						- Paying a refund to the school
+						- Charging a fee for service for converting the USDA Foods
+				- A lot of processors, varies from year to year, but averages at about "100 processors participating in more than one state"
+				- Contracts differ between processors, will probably need to analyze individual contracts
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
