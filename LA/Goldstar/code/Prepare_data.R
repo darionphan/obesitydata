@@ -36,3 +36,32 @@ data=read.csv("raw_data/SGV_300025 - District Usage by Item San Gabe Coop 2021-2
 
 
 #### quantity missing, hence set to missing value ""
+
+
+
+
+
+
+
+
+
+##################### PDF files (shipped in pdf) [first digitized to excel via adobe export]
+
+
+#### 17/18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
