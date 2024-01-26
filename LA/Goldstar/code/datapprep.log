@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Martin Hackmann\Documents\GitHub\obesitydata\LA\Goldstar\cod
+> e\datapprep.log
+  log type:  text
+ opened on:  26 Jan 2024, 14:15:55
+
+. 
+. 
+. ************ load data
+. 
+. *local direc = "C:\Users\Martin Hackmann\Documents\GitHub\obesitydata\datasets\l
+> os_angeles_area_school_procurement\_data_organized_by_year\SY21-22"
+. 
+. *cd "`direc'" 
+. 
+. 
+. insheet using "..\raw_data\SGV_300025 - District Usage by Item San Gabe Coop 202
+> 1-2022.csv"
+(12 vars, 15,908 obs)
+
+. 
+end of do-file
+
+. do "C:\Users\MARTIN~1\AppData\Local\Temp\STD00000000.tmp"
+
+. gen row=_n
+
+. 
+end of do-file
+
