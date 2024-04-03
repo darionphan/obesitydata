@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1712102068.47494 "c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/memo.tex" "memo.pdf" "memo" 1712102072.15022 0
+["pdflatex"] 1712102711.15859 "c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/memo.tex" "memo.pdf" "memo" 1712102714.4729 0
   "C:/Users/Martin" 1702423976 18942 c8d61ba27d7a27ea4fd5e8a8ff5498f0 ""
   "C:/Users/Martin Hackmann/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712034400 134145 c5e165a226d312969de420e3e338af7a ""
   "C:/Users/Martin Hackmann/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0700.pk" 1706987406 8268 bbd39866c70dc90886a68e986b1d60fc ""
@@ -193,10 +193,10 @@
   "C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700131122 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "c:/Users/Martin" 1702423976 18942 c8d61ba27d7a27ea4fd5e8a8ff5498f0 ""
-  "c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/memo.tex" 1712102062 4214 13c9c1ebb9dc08d6a26478210926d559 ""
-  "memo.aux" 1712102071 1591 dc9d6e7064dd65363ac3fdffef855351 "pdflatex"
-  "memo.out" 1712102071 912 005f4231cfd228e9ec2f2f32415b504f "pdflatex"
-  "memo.tex" 1712102062 4214 13c9c1ebb9dc08d6a26478210926d559 ""
+  "c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/memo.tex" 1712102709 4762 4be3340d051603c3aeb65eb6790f5a46 ""
+  "memo.aux" 1712102713 1694 bd373ab9291055112f4548f200009e45 "pdflatex"
+  "memo.out" 1712102713 986 0c66e7c755b23c72c0fa9f68199ed076 "pdflatex"
+  "memo.tex" 1712102709 4762 4be3340d051603c3aeb65eb6790f5a46 ""
   (generated)
   "memo.aux"
   "memo.log"
