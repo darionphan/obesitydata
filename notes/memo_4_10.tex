@@ -1,0 +1,289 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath, amsfonts, amssymb, natbib, graphicx, rotating, lscape, longtable, booktabs, threeparttable, multirow, afterpage, setspace, tikz, caption, subcaption, bigstrut, mathrsfs, dsfont, titlesec, caption, soul, bbm}
+\usepackage[multiple, bottom]{footmisc}
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage[unicode=true,pdfusetitle,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=true,pdfborder={0 0 1},backref=false,colorlinks=true]
+ {hyperref}
+\usetikzlibrary{patterns, arrows}
+\usepackage[draft]{todonotes}
+
+\newcommand{\indep}{\perp \!\!\! \perp}
+
+\hypersetup{citecolor=blue,linkcolor=blue,filecolor=blue,urlcolor=blue}
+\newcommand*\multiplefootnoteseparator{%
+  \textsuperscript{\multfootsep}\nobreak
+}
+
+\let\mfs\multiplefootnoteseparator
+\allowdisplaybreaks
+\onehalfspacing
+\newtheorem{prediction}{Prediction}
+
+\newcommand{\pd}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand\independent{\protect\mathpalette{\protect\independenT}{\perp}}
+\def\independenT#1#2{\mathrel{\rlap{$#1#2$}\mkern2mu{#1#2}}}
+\newcommand{\hiyel}[1]{\colorbox{yellow}{#1}}
+\newcommand{\hired}[1]{\colorbox{red}{#1}}
+
+\titlespacing*{\section}{0pt}{5pt}{5pt}
+\titlespacing*{\subsection}{0pt}{5pt}{5pt}
+\titlespacing*{\subsubsection}{0pt}{5pt}{5pt}
+\titlespacing*{\paragraph}{0pt}{5pt}{10pt}
+\setlength{\bibsep}{0pt}
+\setlength{\textfloatsep}{10pt}
+\setlength{\abovedisplayskip}{0pt}
+\setlength{\belowdisplayskip}{0pt}
+\setlength{\footnotesep}{0pt}
+
+\renewcommand{\topfraction}{.9}	
+\renewcommand{\textfraction}{.01}	
+
+\setcounter{MaxMatrixCols}{10}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{acknowledgment}[theorem]{Acknowledgment}
+\newtheorem{algorithm}{Algorithm}
+\newtheorem{assumption}[theorem]{Assumption}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{case}[theorem]{Case}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{conclusion}[theorem]{Conclusion}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}{Corollary}
+\newtheorem{criterion}[theorem]{Criterion}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+\newtheorem{lemma}{Lemma}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{solution}[theorem]{Solution}
+\newtheorem{summary}[theorem]{Summary}
+%\usepackage[bold-style=ISO]{unicode-math}
+
+\newenvironment{proof}[1][Proof]{\noindent\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+
+\begin{document}
+
+
+\title{School Food Procurement\thanks{We thank...}}
+\author{Martin B.\ Hackmann\thanks{UCLA, Department of Economics, CESifo, and NBER} \and Darion Phan\thanks{UCLA} }
+\date{\today}
+
+\maketitle
+
+\begin{abstract} This paper studies the impact of food revenues on food procurement, and student outcomes.
+	\end{abstract}
+
+\section{Study Goals}
+
+\begin{itemize}
+	\item What is the impact of food revenues on food procurement?
+	\item What is the impact of food procurement on student outcomes
+\end{itemize}
+
+\section{Institutions}
+\begin{enumerate}
+	\item School Districts
+	\item Schools
+	\item Food Service Providers
+	\item Students
+\end{enumerate} 
+
+\section{Data Sources}
+
+\subsection{California}
+
+\begin{enumerate}
+	\item California Department of Education
+	\begin{itemize}
+		\item test scores
+		\item physical fitness
+		\item demographics
+		\item Food procurement... details
+	\end{itemize}
+	\item Los Angeles School Districts
+	\end{enumerate}
+
+\subsection{Texas}
+
+\section{Data Description}
+
+\subsection{Federal Data}
+\begin{enumerate}
+	
+	\item USDA Reimbursements
+	
+	The USDA helps schools sustain their nutrition programs by reimbursing the schools on a per-meal-served basis. Different meals qualify for different reimbursements  many programs schools can offer to students and faculty. Examples of these programs include the National School Lunch Program (NSLP), School Breakfast Program (SBP), Summer Food Service Program (SFSP), Special Milk Program, Meal Supplements, and other programs. In this paper, we will focus mainly on the USDA reimbursements from meals served through the NSLP and SBP.
+	
+	See federal reimbursement rates per meal served through the NSLP and SBP over time from School Year 1998-1999 to present. \href{https://www.fns.usda.gov/cn/rates-reimbursement}{Link here}.
+	%Create a table of all the rates if I have time, no need to currently, will be helpful in the future though
+	
+	Based on the link, "adjustments for the National School Lunch and the School Breakfast Programs reflect changes in the Food Away From Home series of the Consumer Price Index for All Urban Consumers."
+	
+	\item Competitive Foods
+
+	Schools can also choose to offer competitive foods, which are foods that the schools choose to sell a la carte. These foods typically have less nutrients and are unhealthier than the foods served through the NSLP and SBP. Competitive foods are more popular in affluent areas which leads to more revenue obtained through competitive foods in these schools. The references section is really interesting, a lot of good reading. \href{https://www.ers.usda.gov/webdocs/publications/43770/38064_eib114.pdf?v=0}{Link here}.%how do I do the accent above the a in 'a la carte'?
+
+	% A lot of these studies in the references have a very small sample size
+	\item USDA Commodity Entitlements 
+	
+	Schools get commodity entitlements from the USDA based on the number of NSLP lunches served in the prior school year. Here are the entitlements per meal going back to SY 2008-2009. \href{https://www.fns.usda.gov/usda-fis/value-donated-foods-notices}{Link here}.
+	
+	Using this entitlement, schools can order food from the USDA. The price, quantities, and types of food that can be ordered is found in the \href{https://agr.wa.gov/services/food-access/hunger-relief-agency-hub/federal-food-assistance-programs/ordering-and-distribution}{Link here}.
+	
+	Schools can also use this entitlement to order from the Department of Defense Fresh Fruits and Vegetables Program. Foods ordered from this program are fruits and vegetables. I tried making an account on their portal called FFAVORS to view the available food, but it is password protected and I would need an authorized account. We have some data that the CDE provides on the produce available from SY 2022-2023, but I wasn't able to find a link that went further back.
+	
+	If a school does not use all of its entitlement in the previous school year before they get their new entitlement, they lose the prior year's entitlement. 
+	
+	\href{https://www.cde.ca.gov/ls/nu/fd/dodofferingschlist.asp#allocation2021}{Link here}.
+	
+	\item Nutritional Guidelines
+
+	School Food Authorities must adhere to national nutritional guidelines based on the Healthy Hunger Free Kids Act (2010) and its updates. 
+	\href{https://www.govinfo.gov/content/pkg/FR-2012-01-26/pdf/2012-1010.pdf}{Link here}.
+	
+	\item Cost of Living
+	
+	Using MAIRPD data, we can calculate the cost of living in different metropolitan areas around the US. To calculate the cost of living for individual schools, I found the minimum distance from the center of each county to the center of the first listed city in the metropolitan area. I then assigned the cost of living in that metropolitan as the cost of living for the schools in that county. \href{https://apps.bea.gov/itable/?ReqID=70&step=1&_gl=1*1emw7ne*_ga*ODY3NzQ3NjE4LjE3MTIwMDYxMTc.*_ga_J4698JNNFT*MTcxMjAwNjExNi4xLjEuMTcxMjAwNjI0MC42MC4wLjA.#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMV0sImRhdGEiOltbIlRhYmxlSWQiLCIxMDUiXSxbIk1ham9yX0FyZWEiLCI1Il1dfQ==}{Link here}.
+	
+\end{enumerate}
+
+\subsection{California Data}
+
+\begin{enumerate}
+	
+	\item Reimbursement Rates 
+	
+	California uses a program called Child Nutrition Information \& Payment System (CNIPS) to distribute reimbursements. 
+	
+	Due to the Universal Meal Program (UMP) implemented by California for SY 2022-2023, California provides additional reimbursement for each meal served. California mandated schools to serve one free lunch and one free breakfast to students per day. 
+	
+	California committed itself to making up the respective difference between each meal that would have been entirely paid for or sold at a reduced price.
+	
+	Ex. If the student does not qualify for a free or reduced-price lunch and he is served a free lunch, the school will record that they served the student a paid meal. California will make up the difference between the federal reimbursement for a paid meal and the federal reimbursement for a free meal.
+	
+	\item Individual District Food Procurement
+	
+	It is up to individual districts to competitively procure their own food. Each district must send out RFPs and create contracts with companies to procure the food they serve.
+	
+	Schools can contract with a Food Service Management Company (FSMC). This company can procure the foods of the school and/or provide personnel and equipment to run the school's nutrition program. Schools can also create cooperatives with each other when purchasing food. This allows schools to contract with companies together, which may result in lower per-unit prices for the food purchased. Schools can also utilize a method called 'piggybacking' where a school district uses a contract that another district has to procure the food at the same price as that district.  
+	
+	\item California Department of Education (CDE)
+	
+	The CDE has a lot of important data that we want to use. We will request data through the CDE Data Request portal. \href{https://www.cde.ca.gov/ds/da/}{Link here}.
+	
+	The data we hope to use are as follows:
+	
+	\begin{enumerate}
+		\item California Longitudinal Pupil Achievement Data System (CALPADS)
+		
+		Based on the CDE website linked below, "CALPADS is the foundation of California’s K–12 education data system, comprising student demographic, program participation, grade level, enrollment, course enrollment and completion, and discipline data. The student-level, longitudinal data in CALPADS enables the facilitation of program evaluation, the assessment of student achievement over time, the calculation of more accurate dropout and graduation rates, the efficient creation of reports to meet state and federal reporting requirements, and the ability to create ad hoc reports and responses to relevant questions." \href{https://www.cde.ca.gov/ds/sp/cl/background.asp}{Link here}.
+		
+		\item Physical Fitness Test (PFT)
+		
+		The PFT tests students on a variety of exercises such as the pacer test, trunk lift, and pushups. We are able to access to freely access data going back to SY 1998-1999 to SY 2018-2019 through the CDE DataQuest. \href{https://data1.cde.ca.gov/dataquest/}{Link here}. I don't believe student BMI, height, or weight data is collected through this program anymore so we may need a new data source for this.
+		
+		\item Vendor Paid List
+		
+		The CDE conducts a state-wide procurement review of schools that participate in the NSLP and SBP. One of the things that every SFA submits to the CDE is a Vendor Paid List which contains the vendor(s) receiving payment as well as the payment amount. 
+		
+		\item CDE Distribution Centers
+		
+		The CDE manages two warehouses that distribute the USDA Foods and DOD Fresh produce. These warehouses are located in Pomona and Sacramento. %can we study the USDA foods recieved if one of these shuts down and the other doesn't? 
+	\end{enumerate}
+	
+	Through these these datasets provided by the California, we hope to see the physical health and academic performance of students over time.
+	
+\end{enumerate}
+
+\subsection{Southern California Data}
+
+\begin{enumerate}
+	\item Individual School Data
+	
+	We used the California Public Records Act to request food procurement data from school districts around Los Angeles. The data includes the price, quantity, and description of the food purchased from the SY 2018-2019 to SY 2022-2023. To view the data, see the GitHub. \href{https://github.com/darionphan/obesitydata/tree/main}{Link Here}.
+	
+	The largest cooperative (and the entity we have the most data for) is the San Gabriel Valley Purchasing Cooperative. 
+	
+	Some of the obtained data was in pdf form and/or handwritten. We used the Adobe Acrobat pdf to Excel converter to obtain some files.
+	
+	%What else should I put here?
+\end{enumerate}
+
+\subsection{Texas Data}
+
+\begin{enumerate}
+	\item Reimbursement Rates 
+	
+	Before SY 2023-2024, Texas did not give schools additional funding per NSLP or SBP meal served. As a result, Texas schools receive the federal reimbursement for the meals served. \href{https://www.fns.usda.gov/cn/rates-reimbursement}{Link here}.
+	
+	Texas passed a law that allows students that qualify for a reduced-price meal to receive their breakfast for free. The state pays for the difference in the paid-reimbursement and the free reimbursement. 
+	
+	\item Individual District Procurement
+	
+	Although there may be different laws for school food procurement, I think that the general process of competitively procuring food is the same. 
+	
+	\item Texas Education Agency
+	
+	A lot of the data we have comes from the Texas Open Data Portal and the Texas Education Agency. 
+	\begin{enumerate}
+		\item Meal Reimbursement Data
+		
+		Texas has publicly available data on the number of meals served for the NSLP and SBP as well as the reimbursement each school gets for participating. This data goes back to SY 2015-2016. \href{https://data.texas.gov/stories/s/TDA-Data-Overview-School-Nutrition-Programs/e2dm-5r4v/#data-available-on-school-nutrition-programs}{Link here}.
+		
+		\item USDA Entitlement Data
+		
+		Using the same link as the above, we can see the USDA entitlement each school is given for the year from SY 2021-2022 to present. I believe we can submit something Texas calls a 'Public Information Request' to ask for the entitlement data. \href{https://data.texas.gov/stories/s/TDA-Data-Overview-School-Nutrition-Programs/e2dm-5r4v/#data-available-on-school-nutrition-programs}{Link here}.
+		
+		\item School Expenditures on Nutrition Programs
+		
+		We can view Texas' school budgets with the link below. It includes an itemized category for spending on food. \href{https://rptsvr1.tea.texas.gov/school.finance/forecasting/financial_reports/1516_FinBudRep.html}{Link here}.
+		
+		We also can view the spending of schools on food with the following link. I checked a few schools with the data from the above item and it lined up. \href{https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/peims-single-file-financial-data-downloads}{Link here}.
+		
+		
+	\end{enumerate}
+
+
+\end{enumerate}
+	
+
+\section{Empirical Evidence}
+
+\section{Figures}
+
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width = \linewidth, keepaspectratio]{"4_9_2024_reimbursement_per_sub_plot.png"}
+	\caption{Average Reimbursement per Subsidized Breakfast}
+	%What's the difference between caption and label
+	\label{fig:your_label}
+\end{figure}
+
+\begin{figure}[tbh]
+	%Is it customary to remove the graph title and insert the title it in LaTeX? What about the rest?
+	\caption{Figure title}\label{fig1}
+		\includegraphics[width=\linewidth, keepaspectratio]{"Texas_county_cost_of_living_map.png"}
+		
+\end{figure}
+
+\section{Tables}
+
+\begin{table}[tbh]
+    \caption{Table title}
+    \label{table1}
+        \begin{center}
+        %\scalebox{0.85}{\input{Tables/tablefit_prepost.tex}}
+        \end{center}
+    \textit{\scriptsize{}Note: This table...}{\scriptsize \par}
+    \end{table}
+
+\end{document}
