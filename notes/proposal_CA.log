@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.1)  3 MAY 2024 11:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.1)  3 MAY 2024 11:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/memo_4_17.tex"
-(c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/memo_4_17.tex
+**"c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/proposal_CA.tex"
+(c:/Users/Martin Hackmann/Documents/GitHub/obesitydata/notes/proposal_CA.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -649,12 +649,12 @@ LaTeX Info: Redefining \addtolength on input line 81.
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count341
 \l__pdf_internal_box=\box74
-) (memo_4_17.aux
+) (proposal_CA.aux
 
 LaTeX Warning: Label `fig1' multiply defined.
 
 )
-\openout1 = `memo_4_17.aux'.
+\openout1 = `proposal_CA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
 LaTeX Font Info:    ... okay on input line 71.
@@ -732,9 +732,9 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 71.
-(memo_4_17.out) (memo_4_17.out)
+(proposal_CA.out) (proposal_CA.out)
 \@outlinefile=\write4
-\openout4 = `memo_4_17.out'.
+\openout4 = `proposal_CA.out'.
 
 
 
@@ -754,60 +754,59 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
 
 {C:/Users/Martin Hackmann/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<Data Flowchart, 4_17_2024.png, id=77, 1583.9175pt x 718.685pt>
+<Data Flowchart, 4_17_2024.png, id=89, 1583.9175pt x 718.685pt>
 File: Data Flowchart, 4_17_2024.png Graphic file (type png)
 <use Data Flowchart, 4_17_2024.png>
-Package pdftex.def Info: Data Flowchart, 4_17_2024.png  used on input line 130.
+Package pdftex.def Info: Data Flowchart, 4_17_2024.png  used on input line 132.
 (pdftex.def)             Requested size: 469.75502pt x 213.13976pt.
- [2 <./Data Flowchart, 4_17_2024.png>] [3] [4] [5] [6]
-<summary_stats_A.png, id=139, 388.45125pt x 448.67625pt>
+ [2] [3 <./Data Flowchart, 4_17_2024.png>] [4] [5] [6] [7]
+<summary_stats_A.png, id=163, 388.45125pt x 448.67625pt>
 File: summary_stats_A.png Graphic file (type png)
 <use summary_stats_A.png>
-Package pdftex.def Info: summary_stats_A.png  used on input line 297.
+Package pdftex.def Info: summary_stats_A.png  used on input line 299.
 (pdftex.def)             Requested size: 469.75502pt x 542.59871pt.
 
-Overfull \hbox (50.13963pt too wide) in paragraph at lines 301--302
+Overfull \hbox (50.13963pt too wide) in paragraph at lines 303--304
 \OT1/cmr/m/n/12 "CEID", "CE-Name", "CE-County", "Type-OfA-gency", "Type-Of-S-NPOrg", "SiteID","SiteName",
  []
 
-[7] [8 <./summary_stats_A.png>]
-<summary_stats_B.png, id=153, 391.4625pt x 237.88875pt>
+<summary_stats_B.png, id=164, 391.4625pt x 237.88875pt>
 File: summary_stats_B.png Graphic file (type png)
 <use summary_stats_B.png>
-Package pdftex.def Info: summary_stats_B.png  used on input line 309.
+Package pdftex.def Info: summary_stats_B.png  used on input line 311.
 (pdftex.def)             Requested size: 469.75502pt x 285.4832pt.
- [9 <./summary_stats_B.png>]
-<summary_stats_DF.png, id=160, 553.31718pt x 420.06938pt>
+[8] [9 <./summary_stats_A.png>]
+<summary_stats_DF.png, id=175, 553.31718pt x 420.06938pt>
 File: summary_stats_DF.png Graphic file (type png)
 <use summary_stats_DF.png>
-Package pdftex.def Info: summary_stats_DF.png  used on input line 329.
+Package pdftex.def Info: summary_stats_DF.png  used on input line 331.
 (pdftex.def)             Requested size: 469.75502pt x 356.63121pt.
-<summary_stats_E.png, id=161, 946.28531pt x 397.485pt>
+<summary_stats_E.png, id=176, 946.28531pt x 397.485pt>
 File: summary_stats_E.png Graphic file (type png)
 <use summary_stats_E.png>
-Package pdftex.def Info: summary_stats_E.png  used on input line 341.
+Package pdftex.def Info: summary_stats_E.png  used on input line 343.
 (pdftex.def)             Requested size: 469.75502pt x 197.3167pt.
- [10 <./summary_stats_DF.png>] [11 <./summary_stats_E.png>]
-<4_9_2024_reimbursement_per_sub_plot.png, id=176, 822.07124pt x 593.96906pt>
+ [10 <./summary_stats_B.png>] [11 <./summary_stats_DF.png>] [12 <./summary_stats_E.png>]
+<4_9_2024_reimbursement_per_sub_plot.png, id=201, 822.07124pt x 593.96906pt>
 File: 4_9_2024_reimbursement_per_sub_plot.png Graphic file (type png)
 <use 4_9_2024_reimbursement_per_sub_plot.png>
-Package pdftex.def Info: 4_9_2024_reimbursement_per_sub_plot.png  used on input line 401.
+Package pdftex.def Info: 4_9_2024_reimbursement_per_sub_plot.png  used on input line 403.
 (pdftex.def)             Requested size: 469.75502pt x 339.40875pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Texas_county_cost_of_living_map.png, id=177, 564.60938pt x 587.19376pt>
+<Texas_county_cost_of_living_map.png, id=202, 564.60938pt x 587.19376pt>
 File: Texas_county_cost_of_living_map.png Graphic file (type png)
 <use Texas_county_cost_of_living_map.png>
-Package pdftex.def Info: Texas_county_cost_of_living_map.png  used on input line 410.
+Package pdftex.def Info: Texas_county_cost_of_living_map.png  used on input line 412.
 (pdftex.def)             Requested size: 469.75502pt x 488.55339pt.
-<heatmap_april_15_2024.png, id=178, 672.26157pt x 451.6875pt>
+<heatmap_april_15_2024.png, id=203, 672.26157pt x 451.6875pt>
 File: heatmap_april_15_2024.png Graphic file (type png)
 <use heatmap_april_15_2024.png>
-Package pdftex.def Info: heatmap_april_15_2024.png  used on input line 417.
+Package pdftex.def Info: heatmap_april_15_2024.png  used on input line 419.
 (pdftex.def)             Requested size: 469.75502pt x 315.62772pt.
-[12] [13 <./4_9_2024_reimbursement_per_sub_plot.png>] [14 <./Texas_county_cost_of_living_map.png>] [15 <./heatmap_april_15_2024.png (PNG copy)>] (memo_4_17.aux)
+[13] [14 <./4_9_2024_reimbursement_per_sub_plot.png>] [15 <./Texas_county_cost_of_living_map.png>] [16 <./heatmap_april_15_2024.png (PNG copy)>] (proposal_CA.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -816,21 +815,21 @@ L3 programming layer <2024-01-04>
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `memo_4_17.out' has not changed.
-(rerunfilecheck)             Checksum: 839FFF2D9F27F94BC2E463D0948EAAFE;1573.
+Package rerunfilecheck Info: File `proposal_CA.out' has not changed.
+(rerunfilecheck)             Checksum: A736BBADD9EFD5644305354E83AAF604;1677.
  ) 
 Here is how much of TeX's memory you used:
- 25115 strings out of 474485
- 476620 string characters out of 5738979
- 1935542 words of memory out of 5000000
- 46880 multiletter control sequences out of 15000+600000
- 569578 words of font info for 81 fonts, out of 8000000 for 9000
+ 25138 strings out of 474485
+ 476843 string characters out of 5738979
+ 1939542 words of memory out of 5000000
+ 46892 multiletter control sequences out of 15000+600000
+ 572268 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,93p,785b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on memo_4_17.pdf (15 pages, 430406 bytes).
+ 84i,11n,93p,1044b,627s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Martin Hackmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on proposal_CA.pdf (16 pages, 458439 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 308 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 

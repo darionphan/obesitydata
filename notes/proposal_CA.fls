@@ -1,7 +1,7 @@
 PWD c:\Users\Martin Hackmann\Documents\GitHub\obesitydata\notes
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Martin Hackmann\Documents\GitHub\obesitydata\notes\memo_4_17.tex
-OUTPUT memo_4_17.log
+INPUT c:\Users\Martin Hackmann\Documents\GitHub\obesitydata\notes\proposal_CA.tex
+OUTPUT proposal_CA.log
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -273,10 +273,10 @@ INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\tools\cal
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\memo_4_17.aux
-INPUT .\memo_4_17.aux
-INPUT memo_4_17.aux
-OUTPUT memo_4_17.aux
+INPUT .\proposal_CA.aux
+INPUT .\proposal_CA.aux
+INPUT proposal_CA.aux
+OUTPUT proposal_CA.aux
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -286,14 +286,14 @@ INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT .\memo_4_17.out
-INPUT .\memo_4_17.out
-INPUT memo_4_17.out
-INPUT memo_4_17.out
-OUTPUT memo_4_17.pdf
-INPUT .\memo_4_17.out
-INPUT .\memo_4_17.out
-OUTPUT memo_4_17.out
+INPUT .\proposal_CA.out
+INPUT .\proposal_CA.out
+INPUT proposal_CA.out
+INPUT proposal_CA.out
+OUTPUT proposal_CA.pdf
+INPUT .\proposal_CA.out
+INPUT .\proposal_CA.out
+OUTPUT proposal_CA.out
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -337,13 +337,26 @@ INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\am
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0700.tfm
-INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\Data Flowchart, 4_17_2024.png
 INPUT .\Data Flowchart, 4_17_2024.png
 INPUT .\Data Flowchart, 4_17_2024.png
@@ -402,10 +415,9 @@ INPUT .\heatmap_april_15_2024.png
 INPUT .\heatmap_april_15_2024.png
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti8.tfm
-INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT memo_4_17.aux
-INPUT .\memo_4_17.out
-INPUT .\memo_4_17.out
+INPUT proposal_CA.aux
+INPUT .\proposal_CA.out
+INPUT .\proposal_CA.out
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0700.pk
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0700.pk
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
@@ -414,8 +426,6 @@ INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
 INPUT C:\Users\Martin Hackmann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
-INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
@@ -424,5 +434,11 @@ INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti8.pfb
 INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti8.pfb
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\Martin Hackmann\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
