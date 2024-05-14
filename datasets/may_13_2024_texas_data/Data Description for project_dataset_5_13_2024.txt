@@ -1,0 +1,34 @@
+Data Description for project_dataset_5_13_2024.csv
+
+# SiteName: The name of the site serving the meals. Ex. 'A C JONES HIGH SCHOOL'
+# CEName: The larger district that the school is part of. Ex. 'ALDINE ISD'
+# CECounty: The county the school is within
+# Metro Area: The metropolitan area of the county
+# Year: Year of the data. Ex. '2018' refers to School Year 2017-2018
+# MAIRPD: The cost of living index for that year in that metropolitan area
+# breakfast_reim_total: The total amount of reimbursement schools get for the breakfasts they serve
+# lunch_reim_total: The total amount of reimbursement schools get for the lunches they serve
+# eligible_lunches: The number of free or reduced-priced lunches schools serve
+# total_lunches: The number of lunches schools serve
+# elig_in_2_years: Whether or not the school will qualify for Severe Need Breakfast in two years
+# current_ratio: The number of eligible lunches divided by total lunches
+# qty_free_break: The number of free breakfasts the school serves
+# qty_redc_break: The number of reduced-price breakfasts the school serves
+# qty_paid_break: The number of paid breakfasts the school serves
+# reported_breakfast_reim: The total reimbursement the school reports receiving from its breakfast program
+# qty_free_lunch: The number of free lunches the school serves
+# qty_redc_lunch: The number of reduced-price lunches the school serves
+# qty_paid_lunch: The number of paid lunches the school serves
+# county: This is a repeated variable and will be removed later, but was necessary for joining the data
+# past_ratio: The number of eligible lunches divided by total lunches two years ago for this site
+# is_curr_elig: Answer to the question 'Is this site currently eligible for Severe Need Breakfast'
+# calced_reim: The total amount of reimbursement for the school's breakfast program using a formula
+# paid_reimbursement: Reimbursement to schools attributable to paid breakfasts
+# frp_break_reim: Reimbursement to schools attributable to free or reduced-price breakfasts
+# frp_break_reim_per_frp_break: Reimbursement per free or reduced-price breakfast
+# diff_in_calced_reim: The reported reimbursement minus the calculated reimbursement, used as a check
+# explained_by_calced: If reported reimbursement equals the calculated reimbursement, used as a check
+# correct_reim: The correct amount of reimbursement, determined by whichever reimbursement calculation equals the reported reimbursement, used as a check
+# district_food_spending_per_student: Amount the district spends per student on their food program
+# district_food_service_expenditures: Total amount the district spends on their food program
+# district_fall_enrollment: Number of students enrolled in the school at the start of the school year. Ex. '14792' with the year of '2018' means 14,792 students were enrolled in the school during the School Year 2017-2018
